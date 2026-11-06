@@ -1,0 +1,645 @@
+{
+ "stichtag": "2026-10-16",
+ "ergebnisse": [
+  {
+   "schicht": "hist",
+   "groesse": 200,
+   "mass": "Wörter 150",
+   "bloecke": {
+    "A2": 82,
+    "B1": 10,
+    "B2": 33,
+    "C2": 148,
+    "C3": 374,
+    "A1L": 55,
+    "A1N": 27
+   },
+   "H1:H2 (A2 gg. B1)": {
+    "n_pos": 82,
+    "n_neg": 10,
+    "auc": 0.852,
+    "treffer": "55/82",
+    "fehlalarm": "2/10",
+    "LR_nah": 2.94,
+    "LR_nah_min95": 1.11,
+    "LR_fern": 0.43,
+    "LR_fern_max95": 0.89
+   },
+   "H1:H3 (A2 gg. C2)": {
+    "n_pos": 82,
+    "n_neg": 148,
+    "auc": 0.842,
+    "treffer": "58/82",
+    "fehlalarm": "26/148",
+    "LR_nah": 3.96,
+    "LR_nah_min95": 2.45,
+    "LR_fern": 0.36,
+    "LR_fern_max95": 0.53
+   },
+   "Kontrolle (A2 gg. C3)": {
+    "n_pos": 82,
+    "n_neg": 374,
+    "auc": 0.916,
+    "treffer": "74/82",
+    "fehlalarm": "84/374",
+    "LR_nah": 3.98,
+    "LR_nah_min95": 3.04,
+    "LR_fern": 0.13,
+    "LR_fern_max95": 0.25
+   }
+  },
+  {
+   "schicht": "hist",
+   "groesse": 200,
+   "mass": "Zeichen-4 150",
+   "bloecke": {
+    "A2": 82,
+    "B1": 10,
+    "B2": 33,
+    "C2": 148,
+    "C3": 374,
+    "A1L": 55,
+    "A1N": 27
+   },
+   "H1:H2 (A2 gg. B1)": {
+    "n_pos": 82,
+    "n_neg": 10,
+    "auc": 0.973,
+    "treffer": "59/82",
+    "fehlalarm": "0/10",
+    "LR_nah": 15.77,
+    "LR_nah_min95": 2.21,
+    "LR_fern": 0.3,
+    "LR_fern_max95": 0.53
+   },
+   "H1:H3 (A2 gg. C2)": {
+    "n_pos": 82,
+    "n_neg": 148,
+    "auc": 0.771,
+    "treffer": "57/82",
+    "fehlalarm": "45/148",
+    "LR_nah": 2.27,
+    "LR_nah_min95": 1.54,
+    "LR_fern": 0.44,
+    "LR_fern_max95": 0.67
+   },
+   "Kontrolle (A2 gg. C3)": {
+    "n_pos": 82,
+    "n_neg": 374,
+    "auc": 0.892,
+    "treffer": "70/82",
+    "fehlalarm": "82/374",
+    "LR_nah": 3.86,
+    "LR_nah_min95": 2.88,
+    "LR_fern": 0.19,
+    "LR_fern_max95": 0.32
+   }
+  },
+  {
+   "schicht": "hist",
+   "groesse": 351,
+   "mass": "Wörter 150",
+   "bloecke": {
+    "A2": 46,
+    "B1": 6,
+    "B2": 19,
+    "C2": 84,
+    "C3": 213,
+    "A1L": 31,
+    "A1N": 15
+   },
+   "H1:H2 (A2 gg. B1)": {
+    "n_pos": 46,
+    "n_neg": 6,
+    "auc": 0.92,
+    "treffer": "37/46",
+    "fehlalarm": "1/6",
+    "LR_nah": 3.72,
+    "LR_nah_min95": 1.19,
+    "LR_fern": 0.26,
+    "LR_fern_max95": 0.76
+   },
+   "H1:H3 (A2 gg. C2)": {
+    "n_pos": 46,
+    "n_neg": 84,
+    "auc": 0.872,
+    "treffer": "34/46",
+    "fehlalarm": "15/84",
+    "LR_nah": 4.03,
+    "LR_nah_min95": 2.18,
+    "LR_fern": 0.33,
+    "LR_fern_max95": 0.55
+   },
+   "Kontrolle (A2 gg. C3)": {
+    "n_pos": 46,
+    "n_neg": 213,
+    "auc": 0.943,
+    "treffer": "44/46",
+    "fehlalarm": "47/213",
+    "LR_nah": 4.27,
+    "LR_nah_min95": 3.04,
+    "LR_fern": 0.07,
+    "LR_fern_max95": 0.2
+   }
+  },
+  {
+   "schicht": "hist",
+   "groesse": 351,
+   "mass": "Zeichen-4 150",
+   "bloecke": {
+    "A2": 46,
+    "B1": 6,
+    "B2": 19,
+    "C2": 84,
+    "C3": 213,
+    "A1L": 31,
+    "A1N": 15
+   },
+   "H1:H2 (A2 gg. B1)": {
+    "n_pos": 46,
+    "n_neg": 6,
+    "auc": 1.0,
+    "treffer": "35/46",
+    "fehlalarm": "0/6",
+    "LR_nah": 10.57,
+    "LR_nah_min95": 1.59,
+    "LR_fern": 0.26,
+    "LR_fern_max95": 0.62
+   },
+   "H1:H3 (A2 gg. C2)": {
+    "n_pos": 46,
+    "n_neg": 84,
+    "auc": 0.818,
+    "treffer": "33/46",
+    "fehlalarm": "22/84",
+    "LR_nah": 2.69,
+    "LR_nah_min95": 1.57,
+    "LR_fern": 0.39,
+    "LR_fern_max95": 0.67
+   },
+   "Kontrolle (A2 gg. C3)": {
+    "n_pos": 46,
+    "n_neg": 213,
+    "auc": 0.922,
+    "treffer": "40/46",
+    "fehlalarm": "50/213",
+    "LR_nah": 3.65,
+    "LR_nah_min95": 2.51,
+    "LR_fern": 0.18,
+    "LR_fern_max95": 0.36
+   }
+  },
+  {
+   "schicht": "hist",
+   "groesse": 548,
+   "mass": "Wörter 150",
+   "bloecke": {
+    "A2": 30,
+    "B1": 3,
+    "B2": 12,
+    "C2": 54,
+    "C3": 136,
+    "A1L": 20,
+    "A1N": 9
+   },
+   "H1:H2 (A2 gg. B1)": {
+    "n_pos": 30,
+    "n_neg": 2,
+    "auc": 1.0,
+    "treffer": "25/30",
+    "fehlalarm": "0/2",
+    "LR_nah": 4.94,
+    "LR_nah_min95": 1.01,
+    "LR_fern": 0.21,
+    "LR_fern_max95": 0.98
+   },
+   "H1:H3 (A2 gg. C2)": {
+    "n_pos": 30,
+    "n_neg": 54,
+    "auc": 0.904,
+    "treffer": "22/30",
+    "fehlalarm": "7/54",
+    "LR_nah": 5.32,
+    "LR_nah_min95": 2.27,
+    "LR_fern": 0.32,
+    "LR_fern_max95": 0.59
+   },
+   "Kontrolle (A2 gg. C3)": {
+    "n_pos": 30,
+    "n_neg": 136,
+    "auc": 0.95,
+    "treffer": "29/30",
+    "fehlalarm": "31/136",
+    "LR_nah": 4.14,
+    "LR_nah_min95": 2.73,
+    "LR_fern": 0.06,
+    "LR_fern_max95": 0.24
+   },
+   "gattung_anteil": 0.272,
+   "Impostors H1:H2": {
+    "auc": 0.956,
+    "schwelle": 0.14,
+    "treffer": "27/30",
+    "fehlalarm": "0/3",
+    "LR_nah_min95": 1.32,
+    "LR_nah": 7.1,
+    "LR_fern": 0.13
+   },
+   "Impostors H1:H3": {
+    "auc": 0.863,
+    "schwelle": 0.18,
+    "treffer": "21/30",
+    "fehlalarm": "6/54",
+    "LR_nah_min95": 2.35,
+    "LR_nah": 5.87,
+    "LR_fern": 0.35
+   }
+  },
+  {
+   "schicht": "hist",
+   "groesse": 548,
+   "mass": "Zeichen-4 150",
+   "bloecke": {
+    "A2": 30,
+    "B1": 3,
+    "B2": 12,
+    "C2": 54,
+    "C3": 136,
+    "A1L": 20,
+    "A1N": 9
+   },
+   "H1:H2 (A2 gg. B1)": {
+    "n_pos": 30,
+    "n_neg": 2,
+    "auc": 1.0,
+    "treffer": "24/30",
+    "fehlalarm": "0/2",
+    "LR_nah": 4.74,
+    "LR_nah_min95": 0.95,
+    "LR_fern": 0.25,
+    "LR_fern_max95": 1.09
+   },
+   "H1:H3 (A2 gg. C2)": {
+    "n_pos": 30,
+    "n_neg": 54,
+    "auc": 0.849,
+    "treffer": "22/30",
+    "fehlalarm": "15/54",
+    "LR_nah": 2.58,
+    "LR_nah_min95": 1.36,
+    "LR_fern": 0.38,
+    "LR_fern_max95": 0.75
+   },
+   "Kontrolle (A2 gg. C3)": {
+    "n_pos": 30,
+    "n_neg": 136,
+    "auc": 0.939,
+    "treffer": "28/30",
+    "fehlalarm": "26/136",
+    "LR_nah": 4.75,
+    "LR_nah_min95": 2.96,
+    "LR_fern": 0.1,
+    "LR_fern_max95": 0.29
+   },
+   "gattung_anteil": 0.309,
+   "Impostors H1:H2": {
+    "auc": 0.833,
+    "schwelle": 0.18,
+    "treffer": "19/30",
+    "fehlalarm": "0/3",
+    "LR_nah_min95": 0.81,
+    "LR_nah": 5.03,
+    "LR_fern": 0.42
+   },
+   "Impostors H1:H3": {
+    "auc": 0.841,
+    "schwelle": 0.17,
+    "treffer": "23/30",
+    "fehlalarm": "11/54",
+    "LR_nah_min95": 1.8,
+    "LR_nah": 3.63,
+    "LR_fern": 0.31
+   }
+  },
+  {
+   "schicht": "ang",
+   "groesse": 200,
+   "mass": "Wörter 150",
+   "bloecke": {
+    "A2": 82,
+    "B1": 10,
+    "B2": 33,
+    "C2": 148,
+    "C3": 374,
+    "A1L": 55,
+    "A1N": 27
+   },
+   "H1:H2 (A2 gg. B1)": {
+    "n_pos": 82,
+    "n_neg": 10,
+    "auc": 0.852,
+    "treffer": "55/82",
+    "fehlalarm": "2/10",
+    "LR_nah": 2.94,
+    "LR_nah_min95": 1.11,
+    "LR_fern": 0.43,
+    "LR_fern_max95": 0.89
+   },
+   "H1:H3 (A2 gg. C2)": {
+    "n_pos": 82,
+    "n_neg": 148,
+    "auc": 0.834,
+    "treffer": "57/82",
+    "fehlalarm": "30/148",
+    "LR_nah": 3.38,
+    "LR_nah_min95": 2.14,
+    "LR_fern": 0.39,
+    "LR_fern_max95": 0.57
+   },
+   "Kontrolle (A2 gg. C3)": {
+    "n_pos": 82,
+    "n_neg": 374,
+    "auc": 0.917,
+    "treffer": "72/82",
+    "fehlalarm": "88/374",
+    "LR_nah": 3.7,
+    "LR_nah_min95": 2.81,
+    "LR_fern": 0.17,
+    "LR_fern_max95": 0.29
+   }
+  },
+  {
+   "schicht": "ang",
+   "groesse": 200,
+   "mass": "Zeichen-4 150",
+   "bloecke": {
+    "A2": 82,
+    "B1": 10,
+    "B2": 33,
+    "C2": 148,
+    "C3": 374,
+    "A1L": 55,
+    "A1N": 27
+   },
+   "H1:H2 (A2 gg. B1)": {
+    "n_pos": 82,
+    "n_neg": 10,
+    "auc": 0.97,
+    "treffer": "61/82",
+    "fehlalarm": "0/10",
+    "LR_nah": 16.3,
+    "LR_nah_min95": 2.31,
+    "LR_fern": 0.27,
+    "LR_fern_max95": 0.5
+   },
+   "H1:H3 (A2 gg. C2)": {
+    "n_pos": 82,
+    "n_neg": 148,
+    "auc": 0.768,
+    "treffer": "57/82",
+    "fehlalarm": "43/148",
+    "LR_nah": 2.37,
+    "LR_nah_min95": 1.6,
+    "LR_fern": 0.43,
+    "LR_fern_max95": 0.65
+   },
+   "Kontrolle (A2 gg. C3)": {
+    "n_pos": 82,
+    "n_neg": 374,
+    "auc": 0.892,
+    "treffer": "71/82",
+    "fehlalarm": "82/374",
+    "LR_nah": 3.92,
+    "LR_nah_min95": 2.94,
+    "LR_fern": 0.18,
+    "LR_fern_max95": 0.3
+   }
+  },
+  {
+   "schicht": "ang",
+   "groesse": 351,
+   "mass": "Wörter 150",
+   "bloecke": {
+    "A2": 46,
+    "B1": 6,
+    "B2": 19,
+    "C2": 84,
+    "C3": 213,
+    "A1L": 31,
+    "A1N": 15
+   },
+   "H1:H2 (A2 gg. B1)": {
+    "n_pos": 46,
+    "n_neg": 6,
+    "auc": 0.935,
+    "treffer": "36/46",
+    "fehlalarm": "1/6",
+    "LR_nah": 3.62,
+    "LR_nah_min95": 1.14,
+    "LR_fern": 0.28,
+    "LR_fern_max95": 0.81
+   },
+   "H1:H3 (A2 gg. C2)": {
+    "n_pos": 46,
+    "n_neg": 84,
+    "auc": 0.859,
+    "treffer": "34/46",
+    "fehlalarm": "18/84",
+    "LR_nah": 3.37,
+    "LR_nah_min95": 1.91,
+    "LR_fern": 0.34,
+    "LR_fern_max95": 0.59
+   },
+   "Kontrolle (A2 gg. C3)": {
+    "n_pos": 46,
+    "n_neg": 213,
+    "auc": 0.944,
+    "treffer": "44/46",
+    "fehlalarm": "45/213",
+    "LR_nah": 4.45,
+    "LR_nah_min95": 3.15,
+    "LR_fern": 0.07,
+    "LR_fern_max95": 0.2
+   }
+  },
+  {
+   "schicht": "ang",
+   "groesse": 351,
+   "mass": "Zeichen-4 150",
+   "bloecke": {
+    "A2": 46,
+    "B1": 6,
+    "B2": 19,
+    "C2": 84,
+    "C3": 213,
+    "A1L": 31,
+    "A1N": 15
+   },
+   "H1:H2 (A2 gg. B1)": {
+    "n_pos": 46,
+    "n_neg": 6,
+    "auc": 1.0,
+    "treffer": "33/46",
+    "fehlalarm": "0/6",
+    "LR_nah": 9.98,
+    "LR_nah_min95": 1.47,
+    "LR_fern": 0.31,
+    "LR_fern_max95": 0.7
+   },
+   "H1:H3 (A2 gg. C2)": {
+    "n_pos": 46,
+    "n_neg": 84,
+    "auc": 0.816,
+    "treffer": "32/46",
+    "fehlalarm": "21/84",
+    "LR_nah": 2.73,
+    "LR_nah_min95": 1.57,
+    "LR_fern": 0.41,
+    "LR_fern_max95": 0.69
+   },
+   "Kontrolle (A2 gg. C3)": {
+    "n_pos": 46,
+    "n_neg": 213,
+    "auc": 0.921,
+    "treffer": "41/46",
+    "fehlalarm": "49/213",
+    "LR_nah": 3.82,
+    "LR_nah_min95": 2.64,
+    "LR_fern": 0.15,
+    "LR_fern_max95": 0.32
+   }
+  },
+  {
+   "schicht": "ang",
+   "groesse": 548,
+   "mass": "Wörter 150",
+   "bloecke": {
+    "A2": 30,
+    "B1": 3,
+    "B2": 12,
+    "C2": 54,
+    "C3": 136,
+    "A1L": 20,
+    "A1N": 9
+   },
+   "H1:H2 (A2 gg. B1)": {
+    "n_pos": 30,
+    "n_neg": 2,
+    "auc": 1.0,
+    "treffer": "26/30",
+    "fehlalarm": "0/2",
+    "LR_nah": 5.13,
+    "LR_nah_min95": 1.07,
+    "LR_fern": 0.17,
+    "LR_fern_max95": 0.87
+   },
+   "H1:H3 (A2 gg. C2)": {
+    "n_pos": 30,
+    "n_neg": 54,
+    "auc": 0.9,
+    "treffer": "21/30",
+    "fehlalarm": "7/54",
+    "LR_nah": 5.09,
+    "LR_nah_min95": 2.13,
+    "LR_fern": 0.35,
+    "LR_fern_max95": 0.63
+   },
+   "Kontrolle (A2 gg. C3)": {
+    "n_pos": 30,
+    "n_neg": 136,
+    "auc": 0.958,
+    "treffer": "30/30",
+    "fehlalarm": "26/136",
+    "LR_nah": 5.09,
+    "LR_nah_min95": 3.34,
+    "LR_fern": 0.02,
+    "LR_fern_max95": 0.15
+   },
+   "gattung_anteil": 0.246,
+   "Impostors H1:H2": {
+    "auc": 0.933,
+    "schwelle": 0.12,
+    "treffer": "26/30",
+    "fehlalarm": "0/3",
+    "LR_nah_min95": 1.25,
+    "LR_nah": 6.84,
+    "LR_fern": 0.17
+   },
+   "Impostors H1:H3": {
+    "auc": 0.868,
+    "schwelle": 0.14,
+    "treffer": "25/30",
+    "fehlalarm": "13/54",
+    "LR_nah_min95": 1.8,
+    "LR_nah": 3.35,
+    "LR_fern": 0.24
+   }
+  },
+  {
+   "schicht": "ang",
+   "groesse": 548,
+   "mass": "Zeichen-4 150",
+   "bloecke": {
+    "A2": 30,
+    "B1": 3,
+    "B2": 12,
+    "C2": 54,
+    "C3": 136,
+    "A1L": 20,
+    "A1N": 9
+   },
+   "H1:H2 (A2 gg. B1)": {
+    "n_pos": 30,
+    "n_neg": 2,
+    "auc": 1.0,
+    "treffer": "24/30",
+    "fehlalarm": "0/2",
+    "LR_nah": 4.74,
+    "LR_nah_min95": 0.95,
+    "LR_fern": 0.25,
+    "LR_fern_max95": 1.09
+   },
+   "H1:H3 (A2 gg. C2)": {
+    "n_pos": 30,
+    "n_neg": 54,
+    "auc": 0.853,
+    "treffer": "22/30",
+    "fehlalarm": "15/54",
+    "LR_nah": 2.58,
+    "LR_nah_min95": 1.36,
+    "LR_fern": 0.38,
+    "LR_fern_max95": 0.75
+   },
+   "Kontrolle (A2 gg. C3)": {
+    "n_pos": 30,
+    "n_neg": 136,
+    "auc": 0.94,
+    "treffer": "28/30",
+    "fehlalarm": "25/136",
+    "LR_nah": 4.94,
+    "LR_nah_min95": 3.06,
+    "LR_fern": 0.1,
+    "LR_fern_max95": 0.29
+   },
+   "gattung_anteil": 0.322,
+   "Impostors H1:H2": {
+    "auc": 0.828,
+    "schwelle": 0.18,
+    "treffer": "20/30",
+    "fehlalarm": "0/3",
+    "LR_nah_min95": 0.87,
+    "LR_nah": 5.29,
+    "LR_fern": 0.39
+   },
+   "Impostors H1:H3": {
+    "auc": 0.809,
+    "schwelle": 0.16,
+    "treffer": "22/30",
+    "fehlalarm": "15/54",
+    "LR_nah_min95": 1.36,
+    "LR_nah": 2.58,
+    "LR_fern": 0.38
+   }
+  }
+ ]
+}

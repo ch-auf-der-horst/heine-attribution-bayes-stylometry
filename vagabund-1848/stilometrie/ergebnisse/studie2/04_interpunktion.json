@@ -1,0 +1,25 @@
+{
+  "merkmal": "interpunktion",
+  "primaer": {
+    "merkmale": [
+      "komma",
+      "punkt",
+      "frage",
+      "ausrufe",
+      "apostroph",
+      "semikolon",
+      "doppelpunkt",
+      "gedankenstrich",
+      "anfuehrung_auf",
+      "anfuehrung_zu",
+      "sonstige"
+    ],
+    "paare_gleich": 110,
+    "paare_verschieden": 121,
+    "median_gleich": 0.8487862287197774,
+    "median_verschieden": 1.279300691659325,
+    "auc": 0.8780616078136739
+  },
+  "anteil_versatz_ueber_schwelle": 1.0,
+  "geht_in_die_schwelle_ein": false
+}

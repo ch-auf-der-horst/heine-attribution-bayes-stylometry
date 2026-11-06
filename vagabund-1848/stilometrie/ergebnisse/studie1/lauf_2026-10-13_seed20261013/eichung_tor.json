@@ -1,0 +1,10 @@
+{
+  "tor_offen": true,
+  "auc_woerter": 0.8702479338842976,
+  "auc_zeichen": 0.9405709992486851,
+  "auc_interpunktion": 0.8780616078136739,
+  "anteil_versatz_woerter": 1.0,
+  "auc_schwelle": 0.75,
+  "anteil_schwelle": 0.95,
+  "gruende": []
+}

@@ -1,0 +1,68 @@
+[
+  {
+    "url": "https://digipress.digitale-sammlungen.de/search/simple?q=Warnebold&start=0",
+    "date": "2026-10-16",
+    "file": "Suche_Warnebold_1.html",
+    "sha256": "cf8b90ca97cc2cb2a5f740f3f7e3d36ca1c841c5179158c291f81d69c26db967"
+  },
+  {
+    "url": "https://digipress.digitale-sammlungen.de/search/simple?q=Warnebold&start=1",
+    "date": "2026-10-16",
+    "file": "Suche_Warnebold_2.html",
+    "sha256": "4481d4385953d449e0dcffcbe467a32b304dcdff1482a71879a4623b5892a67d"
+  },
+  {
+    "url": "https://digipress.digitale-sammlungen.de/search/simple?q=Warnebold&start=2",
+    "date": "2026-10-16",
+    "file": "Suche_Warnebold_3.html",
+    "sha256": "e5e896e2d0f5c14568e47cab26a6a23d0a6842eb9e6eaa57e8be211bdd58769f"
+  },
+  {
+    "url": "https://digipress.digitale-sammlungen.de/search/simple?q=Warneboldt&start=0",
+    "date": "2026-10-16",
+    "file": "Suche_Warneboldt_1.html",
+    "sha256": "30e2b41ac827a898d282d5c1ea047e8201962a2127a95c5887d3d9f5a78b963e"
+  },
+  {
+    "url": "https://digipress.digitale-sammlungen.de/search/simple?q=Warnbold&start=0",
+    "date": "2026-10-16",
+    "file": "Suche_Warnbold_1.html",
+    "sha256": "1afdb86186c9d63045da27518eea84062a4a42f1ab8b85b48ac910668d17496c"
+  },
+  {
+    "url": "https://api.digitale-sammlungen.de/ocr/bsb10487689/239",
+    "date": "2026-10-16",
+    "file": "bsb10487689_239_OCR.html",
+    "sha256": "303e6b017b22b6ca20b02f11adfaa3ef80670687911912f6df4c241cd8433a97"
+  },
+  {
+    "url": "https://api.digitale-sammlungen.de/ocr/bsb10487690/101",
+    "date": "2026-10-16",
+    "file": "bsb10487690_101_OCR.html",
+    "sha256": "684bbe21e26b817deb0d7642565ab4adb599fa094daf96b3b931e260ad7eb40b"
+  },
+  {
+    "url": "https://api.digitale-sammlungen.de/ocr/bsb10487691/472",
+    "date": "2026-10-16",
+    "file": "bsb10487691_472_OCR.html",
+    "sha256": "1fc734b80446791a6639708ea813c0fca382abfcad366df2f492e8e707615bd6"
+  },
+  {
+    "url": "https://api.digitale-sammlungen.de/ocr/bsb10487691/486",
+    "date": "2026-10-16",
+    "file": "bsb10487691_486_OCR.html",
+    "sha256": "ae49b61460af6239238182c1e9994b1c9cd19e41628f5528f739391360805dba"
+  },
+  {
+    "url": "https://api.digitale-sammlungen.de/ocr/bsb10487341/333",
+    "date": "2026-10-16",
+    "file": "bsb10487341_333_OCR.html",
+    "sha256": "c46538bf24bdea34ff64d18ef69e6a314a6d056dc90b85df738617933fcf9187"
+  },
+  {
+    "url": "https://api.digitale-sammlungen.de/ocr/bsb10486576/670",
+    "date": "2026-10-16",
+    "file": "bsb10486576_670_OCR.html",
+    "sha256": "e744952e8bd4450f837570997be7cd0e142aaced4d16674950f416eeae7f539a"
+  }
+]

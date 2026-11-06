@@ -1,0 +1,34 @@
+Block;erstes Gedicht;letztes Gedicht;Gedichte (auch angeschnitten);Datum von;Datum bis;Entsprechungen im Buch der Lieder (aus A1 zu nehmen)
+1;A2_001;A2_004;4;1812-00;1816-07;
+2;A2_004;A2_007;4;1816-07;1817-02;Traumbilder II.
+3;A2_007;A2_008;2;1817-02;1817-02;Romanzen IX. | Traumbilder II.
+4;A2_008;A2_009;2;1817-02;1817-03;Lieder II. | Romanzen IX.
+5;A2_009;A2_013;5;1817-03;1820-03;Lieder II. | Lieder IV.
+6;A2_013;A2_018;6;1820-03;1821-05;Romanzen XV. | Traumbilder VIII.
+7;A2_018;A2_018;1;1821-05;1821-05;Traumbilder VIII.
+8;A2_018;A2_020;3;1821-05;1821-05;Romanzen XI. | Romanzen XVIII. | Traumbilder VIII.
+9;A2_020;A2_021;2;1821-05;1821-06;Romanzen XVIII. | Traumbilder VII.
+10;A2_021;A2_025;5;1821-06;1821-12;Lyrisches Intermezzo | Traumbilder VII.
+11;A2_025;A2_030;6;1821-12;1821-12;
+12;A2_030;A2_033;4;1821-12;1821-12;Traumbilder I. | Traumbilder V.
+13;A2_033;A2_035;3;1821-12;1821-12;Traumbilder IX. | Traumbilder V. | Traumbilder VI.
+14;A2_035;A2_040;6;1821-12;1821-12;Lieder I. | Lieder III. | Lieder V. | Lieder VI. | Traumbilder IX. | Traumbilder X.
+15;A2_040;A2_045;6;1821-12;1821-12;Lieder IX. | Lieder VI. | Lieder VII. | Lieder VIII. | Romanzen I. | Romanzen II.
+16;A2_045;A2_051;7;1821-12;1821-12;Romanzen II. | Romanzen III. | Romanzen IV. | Romanzen V. | Romanzen VI.
+17;A2_051;A2_054;4;1821-12;1821-12;Romanzen VI. | Romanzen VII. | Romanzen VIII. | Romanzen X.
+18;A2_054;A2_059;6;1821-12;1821-12;Romanzen X. | Romanzen XII. | Romanzen XIII. | Romanzen XIV. | Romanzen XVI. | Romanzen XVII.
+19;A2_059;A2_068;10;1821-12;1822-02;Lyrisches Intermezzo LXI. | Lyrisches Intermezzo XIX. | Lyrisches Intermezzo XVII. | Lyrisches Intermezzo XVIII. | Lyrisches Intermezzo XXII. | Romanzen XIX. | Romanzen XVII. | Romanzen XX.
+20;A2_068;A2_072;5;1822-02;1822-03;Lyrisches Intermezzo LXI. | Lyrisches Intermezzo LXII. | Lyrisches Intermezzo LXV. | Lyrisches Intermezzo LXVI. | Lyrisches Intermezzo XLIV.
+21;A2_072;A2_079;8;1822-03;1822-06;Lyrisches Intermezzo VII. | Lyrisches Intermezzo XLIV. | Lyrisches Intermezzo XXIII. | Lyrisches Intermezzo XXIV. | Lyrisches Intermezzo XXVIII.
+22;A2_079;A2_085;7;1822-06;1822-07;Die Heimkehr I. | Die Heimkehr II. | Die Heimkehr III. | Lyrisches Intermezzo XIII. | Lyrisches Intermezzo XXV. | Lyrisches Intermezzo XXVIII.
+23;A2_085;A2_092;8;1822-07;1822-10;Lyrisches Intermezzo XI. | Lyrisches Intermezzo XXV. | Lyrisches Intermezzo XXVI. | Lyrisches Intermezzo XXVII. | Lyrisches Intermezzo XXXII.
+24;A2_092;A2_105;14;1822-10;1822-10;Lyrisches Intermezzo II. | Lyrisches Intermezzo III. | Lyrisches Intermezzo IV. | Lyrisches Intermezzo V. | Lyrisches Intermezzo VI. | Lyrisches Intermezzo VIII. | Lyrisches Intermezzo XIV. | Lyrisches Intermezzo XVI. | Lyrisches Intermezzo XX. | Lyrisches Intermezzo XXI. | Lyrisches Intermezzo XXXVII.
+25;A2_105;A2_115;11;1822-10;1822-10;Lyrisches Intermezzo L. | Lyrisches Intermezzo LIII. | Lyrisches Intermezzo LIV. | Lyrisches Intermezzo XL. | Lyrisches Intermezzo XLVII. | Lyrisches Intermezzo XLVIII. | Lyrisches Intermezzo XXI. | Lyrisches Intermezzo XXXIV. | Lyrisches Intermezzo XXXIX.
+26;A2_115;A2_123;9;1822-10;1822-10;Die Heimkehr LI. | Die Heimkehr LXVI. | Lyrisches Intermezzo LIV. | Lyrisches Intermezzo LIX. | Lyrisches Intermezzo LV. | Lyrisches Intermezzo LVII. | Lyrisches Intermezzo LVIII. | Lyrisches Intermezzo LX. | Lyrisches Intermezzo LXIII.
+27;A2_123;A2_131;9;1822-10;1823-04;Die Heimkehr LXVI. | Lyrisches Intermezzo IX. | Lyrisches Intermezzo X. | Lyrisches Intermezzo XII. | Lyrisches Intermezzo XXXVI. | Lyrisches Intermezzo XXXVII.
+28;A2_131;A2_142;12;1823-04;1823-04;Lyrisches Intermezzo LI. | Lyrisches Intermezzo LVI. | Lyrisches Intermezzo XII. | Lyrisches Intermezzo XLI. | Lyrisches Intermezzo XLII. | Lyrisches Intermezzo XLIX. | Lyrisches Intermezzo XLV. | Lyrisches Intermezzo XLVI. | Lyrisches Intermezzo XXXIII. | Lyrisches Intermezzo XXXVIII.
+29;A2_142;A2_151;10;1823-04;1824-03;Die Heimkehr II. | Die Heimkehr III. | Die Heimkehr IV. | Lyrisches Intermezzo LVI.
+30;A2_151;A2_157;7;1824-03;1824-03;Die Heimkehr IV. | Die Heimkehr IX. | Die Heimkehr VI. | Die Heimkehr VII. | Die Heimkehr VIII. | Die Heimkehr XI. | Die Heimkehr XII.
+31;A2_157;A2_164;8;1824-03;1824-03;Die Heimkehr XII. | Die Heimkehr XIII. | Die Heimkehr XV. | Die Heimkehr XVI. | Die Heimkehr XVII. | Die Heimkehr XVIII. | Die Heimkehr XX. | Die Heimkehr XXI.
+32;A2_164;A2_170;7;1824-03;1824-03;Die Heimkehr XL. | Die Heimkehr XXI. | Die Heimkehr XXII. | Die Heimkehr XXIX. | Die Heimkehr XXVII. | Die Heimkehr XXVIII. | Die Heimkehr XXXI.
+33;A2_170;A2_178;9;1824-03;1824-03;Die Heimkehr L. | Die Heimkehr LV. | Die Heimkehr LXIV. | Die Heimkehr LXXI. | Die Heimkehr LXXII. | Die Heimkehr LXXVIII. | Die Heimkehr XL. | Die Heimkehr XLI. | Die Heimkehr XLIX.

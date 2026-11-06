@@ -1,0 +1,25 @@
+{
+  "seed": 20261013,
+  "lauf_datum": "2026-10-13",
+  "probenlaenge": 548,
+  "wiederholungen": 100,
+  "mfw": 150,
+  "mfw_bericht": [
+    100,
+    300
+  ],
+  "zeichen_n": 4,
+  "zeichen_n_bericht": [
+    3,
+    5
+  ],
+  "zeichen_haeufigste": 500,
+  "auc_schwelle": 0.75,
+  "anteil_versatz": 0.95,
+  "impostor_wiederholungen": 500,
+  "impostor_merkmalanteil": 0.5,
+  "youden_minimum": 0.5,
+  "antwort_band": 0.05,
+  "standardabweichung_ddof": 1,
+  "dateiliste": "analyse/studie3_dateien.csv"
+}

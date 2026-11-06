@@ -1,0 +1,4 @@
+# Pakete der Studie 1. Die Standardbibliothek ist vorausgesetzt.
+# Fassung, mit der der Lauf gerechnet wird. 00_lauf.py schreibt die
+# tatsächlich geladene Fassung zusätzlich in den Ergebnisordner.
+numpy==2.0.2

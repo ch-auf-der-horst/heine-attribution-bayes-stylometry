@@ -1,0 +1,108 @@
+{
+ "Blöcke": {
+  "A1": 20,
+  "A2": 27,
+  "B1": 3,
+  "B2": 13,
+  "C2": 55,
+  "C3": 136
+ },
+ "H1:H2 geschlossen": {
+  "auc": 0.944,
+  "treffer": "21/27",
+  "fehlalarm": "0/2",
+  "LR_nah": 4.61,
+  "LR_nah_min95": 0.9,
+  "LR_fern": 0.28
+ },
+ "H1:H3 geschlossen": {
+  "auc": 0.868,
+  "treffer": "24/27",
+  "fehlalarm": "19/55",
+  "LR_nah": 2.51,
+  "LR_nah_min95": 1.51,
+  "LR_fern": 0.19
+ },
+ "H1:H3 offen C3": {
+  "auc": 0.877,
+  "treffer": "24/27",
+  "fehlalarm": "53/136",
+  "LR_nah": 2.24,
+  "LR_nah_min95": 1.52,
+  "LR_fern": 0.21
+ },
+ "H1:H3 offen Hektor": {
+  "auc": 0.766,
+  "treffer": "24/27",
+  "fehlalarm": "11/16",
+  "LR_nah": 1.29,
+  "LR_nah_min95": 0.84,
+  "LR_fern": 0.39
+ },
+ "Kandidat": {
+  "woerter": 538,
+  "s_H2": 0.154,
+  "s_H3": 0.832
+ },
+ "Steinmann": {
+  "s_H3": 0.351
+ },
+ "Merkmale": {
+  "Kandidat": {
+   "weibl. Kadenz": 0.414,
+   "unreine Reime": 0.306,
+   "Silben/Vers": 6.862,
+   "Streuung Silben": 0.776,
+   "\"Und\" am Versanfang": 0.086,
+   "vierzeilige Strophen": 1.0
+  },
+  "A1 Lied": {
+   "weibl. Kadenz": 0.403,
+   "unreine Reime": 0.252,
+   "Silben/Vers": 7.83,
+   "Streuung Silben": 1.203,
+   "\"Und\" am Versanfang": 0.153,
+   "vierzeilige Strophen": 0.907
+  },
+  "A2": {
+   "weibl. Kadenz": 0.341,
+   "unreine Reime": 0.266,
+   "Silben/Vers": 7.944,
+   "Streuung Silben": 1.197,
+   "\"Und\" am Versanfang": 0.135,
+   "vierzeilige Strophen": 0.815
+  },
+  "Hektor B1": {
+   "weibl. Kadenz": 0.436,
+   "unreine Reime": 0.2,
+   "Silben/Vers": 9.114,
+   "Streuung Silben": 1.006,
+   "\"Und\" am Versanfang": 0.069,
+   "vierzeilige Strophen": 0.93
+  },
+  "Geibel C2": {
+   "weibl. Kadenz": 0.413,
+   "unreine Reime": 0.206,
+   "Silben/Vers": 8.617,
+   "Streuung Silben": 1.761,
+   "\"Und\" am Versanfang": 0.123,
+   "vierzeilige Strophen": 0.422
+  },
+  "Müller/Wh. C3": {
+   "weibl. Kadenz": 0.354,
+   "unreine Reime": 0.263,
+   "Silben/Vers": 7.436,
+   "Streuung Silben": 1.385,
+   "\"Und\" am Versanfang": 0.073,
+   "vierzeilige Strophen": 0.355
+  },
+  "Steinmann": {
+   "weibl. Kadenz": 0.411,
+   "unreine Reime": 0.179,
+   "Silben/Vers": 7.856,
+   "Streuung Silben": 0.876,
+   "\"Und\" am Versanfang": 0.044,
+   "vierzeilige Strophen": 0.955
+  }
+ }
+}

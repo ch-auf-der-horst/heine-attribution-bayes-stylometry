@@ -1,0 +1,66 @@
+{
+ "Ergebnisse": [
+  {
+   "Mass": "Delta Wörter (MFW150)",
+   "Kandidat_s": 0.004,
+   "AUC_A2_gg_Nachahmer": 0.877,
+   "Tor": true,
+   "A2_mind_so_nah": "21/30",
+   "Nachahmer_mind_so_nah": "10/57",
+   "Nachahmer_95": [
+    0.1,
+    0.29
+   ],
+   "Nachahmer_heine_nah_s_gt_0": "10/57",
+   "je_Verfasser": {
+    "Meissner_1846": "5/19 (s>0: 5)",
+    "Hartmann_1845_1847": "2/19 (s>0: 2)",
+    "Dingelstedt_1842": "3/19 (s>0: 3)"
+   },
+   "LR": 3.83,
+   "log10LR": 0.583
+  },
+  {
+   "Mass": "Zeichen-4-Gramme",
+   "Kandidat_s": 0.234,
+   "AUC_A2_gg_Nachahmer": 0.84,
+   "Tor": true,
+   "A2_mind_so_nah": "0/30",
+   "Nachahmer_mind_so_nah": "0/57",
+   "Nachahmer_95": [
+    0.0,
+    0.06
+   ],
+   "Nachahmer_heine_nah_s_gt_0": "13/57",
+   "je_Verfasser": {
+    "Meissner_1846": "0/19 (s>0: 4)",
+    "Hartmann_1845_1847": "0/19 (s>0: 2)",
+    "Dingelstedt_1842": "0/19 (s>0: 7)"
+   },
+   "LR": 1.87,
+   "log10LR": 0.272
+  },
+  {
+   "Mass": "Versmerkmale (E-7, gleiches Versmaß)",
+   "Kandidat_s": 0.226,
+   "AUC_A2_gg_Nachahmer": 0.778,
+   "Tor": true,
+   "A2_mind_so_nah": "7/15",
+   "Nachahmer_mind_so_nah": "0/6",
+   "Nachahmer_95": [
+    0.0,
+    0.39
+   ],
+   "Nachahmer_heine_nah_s_gt_0": "2/6",
+   "je_Verfasser": {
+    "Meissner_1846": "0/1 (s>0: 0)",
+    "Hartmann_1845_1847": "0/3 (s>0: 1)",
+    "Dingelstedt_1842": "0/2 (s>0: 1)"
+   },
+   "LR": 6.56,
+   "log10LR": 0.817
+  }
+ ],
+ "Wertung_H1_H3": 0.5,
+ "Massen_mit_Tor": 3
+}

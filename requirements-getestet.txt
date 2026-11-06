@@ -1,0 +1,8 @@
+# Genau geprüfter Paketstand (6.11.2026). Mit diesem Stand und der Schrift Inter
+# erzeugen abb1_EN.py und tippett_EN.py die beigelegten Abbildungen pixelgleich.
+# Python 3.13.16
+numpy==2.5.3
+scipy==1.18.1
+matplotlib==3.11.2
+scikit-learn==1.9.1
+Pillow==12.3.0

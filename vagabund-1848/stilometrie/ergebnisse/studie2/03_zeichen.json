@@ -1,0 +1,19 @@
+{
+  "merkmal": "zeichengramme",
+  "haeufigste": 500,
+  "primaer": {
+    "n": 4,
+    "merkmale_mit_streuung": 500,
+    "paare_gleich": 110,
+    "paare_verschieden": 121,
+    "median_gleich": 0.9735852054209098,
+    "median_verschieden": 1.117573671825961,
+    "auc": 0.9405709992486851
+  },
+  "auc_bericht": {
+    "3": 0.941923365890308,
+    "5": 0.941397445529677
+  },
+  "anteil_versatz_ueber_schwelle": 1.0,
+  "versatz_schwelle": 0.75
+}

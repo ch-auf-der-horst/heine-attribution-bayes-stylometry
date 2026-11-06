@@ -1,0 +1,146 @@
+[
+ {
+  "k": 150,
+  "geschlossen B1": {
+   "n_pos": 30,
+   "n_neg": 2,
+   "auc": 1.0,
+   "treffer": "26/30",
+   "fehlalarm": "0/2",
+   "LR_nah": 5.13,
+   "LR_nah_min95": 1.07,
+   "LR_fern": 0.17,
+   "LR_fern_max95": 0.87
+  },
+  "geschlossen C2": {
+   "n_pos": 30,
+   "n_neg": 54,
+   "auc": 0.822,
+   "treffer": "22/30",
+   "fehlalarm": "15/54",
+   "LR_nah": 2.58,
+   "LR_nah_min95": 1.36,
+   "LR_fern": 0.38,
+   "LR_fern_max95": 0.75
+  },
+  "offen C3 gg. C2-Referenz": {
+   "auc": 0.779,
+   "treffer": "22/30",
+   "fehlalarm": "47/136",
+   "LR_nah": 2.09,
+   "LR_nah_min95": 1.3,
+   "LR_fern": 0.42
+  },
+  "offen Hektor gg. C2-Referenz": {
+   "auc": 0.469,
+   "treffer": "22/30",
+   "fehlalarm": "14/15",
+   "LR_nah": 0.8,
+   "LR_nah_min95": 0.56,
+   "LR_fern": 2.92
+  },
+  "Kandidat": {
+   "s_H2": -0.016,
+   "s_H3": 0.124
+  },
+  "Steinmann": {
+   "s_H3": 0.095
+  }
+ },
+ {
+  "k": 50,
+  "geschlossen B1": {
+   "n_pos": 30,
+   "n_neg": 2,
+   "auc": 1.0,
+   "treffer": "28/30",
+   "fehlalarm": "0/2",
+   "LR_nah": 5.52,
+   "LR_nah_min95": 1.2,
+   "LR_fern": 0.1,
+   "LR_fern_max95": 0.62
+  },
+  "geschlossen C2": {
+   "n_pos": 30,
+   "n_neg": 54,
+   "auc": 0.827,
+   "treffer": "23/30",
+   "fehlalarm": "18/54",
+   "LR_nah": 2.25,
+   "LR_nah_min95": 1.27,
+   "LR_fern": 0.36,
+   "LR_fern_max95": 0.77
+  },
+  "offen C3 gg. C2-Referenz": {
+   "auc": 0.816,
+   "treffer": "23/30",
+   "fehlalarm": "44/136",
+   "LR_nah": 2.33,
+   "LR_nah_min95": 1.45,
+   "LR_fern": 0.36
+  },
+  "offen Hektor gg. C2-Referenz": {
+   "auc": 0.491,
+   "treffer": "23/30",
+   "fehlalarm": "13/15",
+   "LR_nah": 0.9,
+   "LR_nah_min95": 0.61,
+   "LR_fern": 1.55
+  },
+  "Kandidat": {
+   "s_H2": 0.028,
+   "s_H3": 0.161
+  },
+  "Steinmann": {
+   "s_H3": 0.187
+  }
+ },
+ {
+  "k": 300,
+  "geschlossen B1": {
+   "n_pos": 30,
+   "n_neg": 2,
+   "auc": 1.0,
+   "treffer": "29/30",
+   "fehlalarm": "0/2",
+   "LR_nah": 5.71,
+   "LR_nah_min95": 1.27,
+   "LR_fern": 0.06,
+   "LR_fern_max95": 0.49
+  },
+  "geschlossen C2": {
+   "n_pos": 30,
+   "n_neg": 54,
+   "auc": 0.819,
+   "treffer": "20/30",
+   "fehlalarm": "15/54",
+   "LR_nah": 2.35,
+   "LR_nah_min95": 1.19,
+   "LR_fern": 0.47,
+   "LR_fern_max95": 0.87
+  },
+  "offen C3 gg. C2-Referenz": {
+   "auc": 0.748,
+   "treffer": "20/30",
+   "fehlalarm": "54/136",
+   "LR_nah": 1.66,
+   "LR_nah_min95": 1.01,
+   "LR_fern": 0.56
+  },
+  "offen Hektor gg. C2-Referenz": {
+   "auc": 0.489,
+   "treffer": "20/30",
+   "fehlalarm": "13/15",
+   "LR_nah": 0.78,
+   "LR_nah_min95": 0.51,
+   "LR_fern": 2.17
+  },
+  "Kandidat": {
+   "s_H2": 0.119,
+   "s_H3": 0.125
+  },
+  "Steinmann": {
+   "s_H3": 0.104
+  }
+ }
+]

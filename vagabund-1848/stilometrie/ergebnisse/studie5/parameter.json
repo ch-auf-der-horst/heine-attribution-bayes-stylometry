@@ -1,0 +1,24 @@
+{
+  "studie": "Studie 5",
+  "seed": 20261013,
+  "baum_seed": [
+    20261013,
+    5
+  ],
+  "probenlaenge": 548,
+  "nebenlaenge": 351,
+  "mfw": 150,
+  "mfw_bericht": [
+    100,
+    300
+  ],
+  "zeichen_n": 4,
+  "zeichen_n_bericht": [
+    3,
+    5
+  ],
+  "zeichen_haeufigste": 500,
+  "versatz": 0,
+  "einzeltexte": true,
+  "dateiliste": "analyse/studie5_dateien.csv"
+}

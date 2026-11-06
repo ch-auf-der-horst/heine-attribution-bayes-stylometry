@@ -1,0 +1,688 @@
+@@ 14
+Weihnachtsabend., => Weihnachtsabend.
+Alten z die => Alten; die
+Neisegewande => Reisegewande
+@@ 15
+Welt» gegangen => Welt gegangen
+greift ex => greift er
+Lockken => Locken
+@@ 17
+b (ARE ds => 
+al* zu => all' zu
+@@ 18
+SIEM => 
+@@ 26
+5d' => öd'
+Schaum;z => Schaum;
+Wenn. hell => Wenn hell
+Zuckkt => Zuckt
+@@ 27
+sißt => sitzt
+@@ 29
+sißt => sitzt
+stüßt => stützt
+lies*t => lies't
+Klang s => Klang
+@@ 35
+wen Dil: | => 
+sikt => sitzt
+Nechten => Rechten
+Ah , bleibt => Ach, bleibt
+@@ 46
+leßtes Stü, => letztes Stück,
+leßten => letzten
+@@ 52
+"Fragment, => Fragment.
+Glockke => Glocke
+@@ 81
+Erste Abtheilung. => 
+Händ? => Händ'
+@@ 82
+Lockken => Locken
+erschroFenen => erschrockenen
+schüß! => schütz'
+Taake -4 => 
+@@ 83
+Rechenstunde, => Rechenstunde.
+Blie! => Blicke!
+M0ög' => Mög'
+Do wenn => Doch wenn
+@@ 84
+Liebeslaunen, => Liebeslaunen.
+all* ihr => all' ihr
+„A das => „Ach das
+träumt", => träumt',
+@@ 86
+Antlig => Antlitz
+Antliß => Antlitz
+@@ 87
+Zum Weihnachten, => Zum Weihnachten.
+Schwagen => Schwatzen
+@@ 88
+Doh die => Doch die
+Niesenritter => Riesenritter
+trugz => trug;
+Me äl => 
+@@ 89
+duz => du;
+Nuh, => Ruh,
+schwakten fort =“- => schwatzten fort —
+zurü& => zurück
+Gedanken. streben => Gedanken streben
+-auch du => auch du
+@@ 90
+Jekt stehst => Jetzt stehst
+Antliß => Antlitz
+einz => ein;
+Lied, - => Lied,
+@@ 91
+Doh du => Doch du
+@@ 92
+Leerez => Leere;
+ruf? => ruf'
+jeko => jetzt
+leßtes => letztes
+@@ 95
+kehr! => kehr'
+@@ 108
+Ih wand => Ich wand
+schite => schickte
+Doh als => Doch als
+Busenlag => Busen lag
+pflanzt! => pflanzt'
+sißt => sitzt
+@@ 120
+verzeihn. .“ => verzeihn.“
+@@ 121
+Nitter und Dame => Ritter und Dame
+sißt der => sitzt der
+blißen => blitzen
+sißt die => sitzt die
+wirkt fie => wirkt sie
+blikt => blickt
+Redet jet => Redet jetzt
+@@ 122
+Nitter bricht => Ritter bricht
+Zauber « => Zauber
+bindet! : => bindet!
+Augen, j => Augen,
+sikßt => sitzt
+Seite z; | => Seite;
+Schwaßt => Schwatzt
+stunime => stumme
+@@ 123
+Schwaßen => Schwatzen
+Nuht => Ruht
+schwaßt der Nitter => schwatzt der Ritter
+Blies => Blickes
+@@ 124
+brechen 3 => brechen;
+Bettlerliebe, => Bettlerliebe.
+Blik! => Blick!
+@@ 125
+@@ 126
+WOR "7 => 
+@@ 128
+Repos da mour., => Repos d'amour.
+Blie Graus => Blicke Graus
+hör allein => hör' allein
+@@ 129
+Damendientst, => Damendienst.
+Ichh will => Ich will
+Doh leid' => Doch leid'
+@@ 130
+Vaterstädtchen 5 => Vaterstädtchen;
+j „Am => „Am
+j Und waren => Und waren
+@@ 131
+den Bli nicht => den Blick nicht
+schaut" => schaut'
+@@ 132
+Herbstnachmittag, => Herbstnachmittag.
+fit? => sitz'
+Schwaken => Schwatzen
+Blond" => Blond'
+striken => stricken
+siken => sitzen
+@@ 140
+September, => September.
+Mein Onkel !- => Mein Onkel!“
+ach4 => ach
+Bauch ! : => Bauch!
+Nief => Rief
+schwörn => schwör'n
+@@ 1
+Letrübten => Betrübten
+Voch klingen => Noch klingen
+Lranders => Leanders
+@@ 5
+IJohanniSabend, => Johannisabend.
+Sankt -Johannisnacht => Sankt-Johannisnacht
+Schisalstraum => Schicksalstraum
+Schneckkenhaus => Schneckenhaus
+verfißen => verfitzen
+zuleßt => zuletzt
+@@ 6
+loert => lockert
+Gesicht, A => Gesicht,
+Wicht; : | => Wicht;
+stumm, 7 => stumm,
+Sclaftrunken => Schlaftrunken
+um =- 4 => um —
+Gloenklang => Glockenklang
+Glockkenklang => Glockenklang
+@@ 7
+Nhein => Rhein
+@@ 8
+schöne, ch => schöne,
+im" Traume => im Traume
+sißt es => sitzt es
+@@ 9
+Doh also => Doch also
+streEt => streckt
+Naken => Nacken
+Hike => Hitze
+Zaen => Zacken
+Müßten => Mützen
+@@ 10
+jeßo => jetzo
+@@ 12
+Flämmchhen => Flämmchen
+@@ 13
+Unsre Sagen, => Unsre Sagen.
+Glölein => Glöcklein
+Glü, => Glück,
+Rölein => Röcklein
+Pla genug => Platz genug
+Unsre Mährchen, => Unsre Mährchen.
+@@ 22
+Bergkönigs Tod, => Bergkönigs Tod.
+siket => sitzet
+blißet => blitzet
+Schäße zu Schäßen => Schätze zu Schätzen
+Blikt es => Blickt es
+@@ 23
+blißt => blitzt
+„Ih bin => „Ich bin
+Neich => Reich
+Blikt es => Blickt es
+Ih laß => Ich laß
+@@ 24
+abz => ab;
+Saal. . => Saal.
+sißt => sitzt
+@@ 25
+zakigen => zackigen
+bring! : => bring!
+@@ 30
+Hamburg, | => Hamburg.
+(7-8, Mai 1842.) | => 
+nahten/ => nahten,
+Gau'm => Gau'n
+Schäten => Schätzen
+@@ 31
+Spiße => Spitze
+Müße? => Mütze?
+Jekt ist's ein frommer Nest => Jetzt ist's ein frommer Rest
+Jekt weht => Jetzt weht
+zukten => zuckten
+Neichsstadt => Reichsstadt
+Geschlechter! ! => Geschlechter!
+Do wunderbar => Doch wunderbar
+@@ 32
+bli&t' => blickt'
+weinen! | => weinen!
+Palläste =- | => Palläste —
+Auferstehungsfeste, | => Auferstehungsfeste,
+@@ 34
+Der Alp, => Der Alp.
+The spectre is the thing which => 
+once was fair. => 
+# FREMDTEXT entfernt: englisches Motto
+Doh sonst => Doch sonst
+Jett konnte => Jetzt konnte
+tükt => drückt
+@@ 36
+Wißt ihr noh? => Wißt ihr noch?
+Abendstrahl - => Abendstrahl —
+Schwaden =- ) => Schwaden —
+Heimathsthal! ; | => Heimathsthal!
+Zikaden ? 7 | => Zikaden?
+Bach, | => Bach,
+@@ 40
+Im Keller, => Im Keller.
+Ih blieb => Ich blieb
+sit! ich => sitz' ich
+Wein -“- => Wein —
+@@ 41
+thu'z => thu';
+@@ 44
+Der Liedertafel, => Der Liedertafel.
+eins fingen => eins singen
+Dee springen thut => Decke springen thut
+die Dee springen => die Decke springen
+E>en => Ecken
+Erd", => Erd',
+Jahr ] => Jahr
+unvernünftig. . | => unvernünftig.
+Spuz => Spuk
+@@ 45
+Bin (12 => 
+My boatis on the Shore, => 
+(Nach Byron.) => 
+# FREMDTEXT entfernt: englischer Titel (Byron) und Hinweis „Nach Byron“; Nachdichtung bleibt
+Nadchen => Mädchen
+zieh! => zieh'
+lebte Tropfen => letzte Tropfen
+lehtem => letztem
+jeht beim => jetzt beim
+@@ 53
+Dod ist => Doch ist
+Ichh möchte => Ich möchte
+Lüke => Lücke
+denk! es => denk' es
+@@ 54
+NEE... => 
+wodernen => modernen
+keFe => kecke
+-=- er => — er
+Set? ich => Setz' ich
+@@ 55
+Jdeale => Ideale
+jekt zur => jetzt zur
+Ichh weiß => Ich weiß
+Wike => Witze
+Nadelspite => Nadelspitze
+@@ 56
+Trauben, => Trauben.
+Zch hab' => Ich hab'
+„ Die => „Die
+@@ 57
+kills => 
+Blike => Blicke
+Zuleßt => Zuletzt
+jekt vogelfrei => jetzt vogelfrei
+Nhythmen => Rhythmen
+Doh ist => Doch ist
+@@ 58
+Pien => Piepen
+sißt der Pu : => sitzt der Puck:
+„ Man => „Man
+@@ 59
+siken => sitzen
+Bergesrikßen => Bergesritzen
+Schäße => Schätze
+stete => steckte
+hätt! ich => hätt' ich
+doh nur => doch nur
+Profe => Prose
+@@ 60
+Aus vem Tagebuce., => Aus dem Tagebuche.
+Mai 25. => 
+neuz S => neu;
+Jekt lehnt => Jetzt lehnt
+@@ 61
+Neime => Reime
+@@ 62
+Verstorbenen, => Verstorbenen.
+leßten Pfühle => letzten Pfühle
+leßten Mal => letzten Mal
+Plaß => Platz
+@@ 63
+Sonett, => Sonett.
+leßten Hügel => letzten Hügel
+@@ 64
+Frühlingsanfang, => Frühlingsanfang.
+Zweig, H => Zweig,
+blühen, % => blühen,
+verdunkeln ? 4 => verdunkeln?
+sehn. ] => sehn.
+@@ 65
+Ritornelle, => Ritornelle.
+Maiengloken => Maienglocken
+seh? euch jekt => seh' euch jetzt
+nist du => nickst du
+drinn => drin
+@@ 66
+Ichh liebte => Ich liebte
+@@ 68
+Ia gute => Ja gute
+Überwacht => überwacht
+@@ 75
+Alte Lieder, => Alte Lieder.
+doh die => doch die
+Spriken => Spritzen
+Blikt er => Blickt er
+@@ 76
+FME => 
+Sinnz => Sinn;
+stet darin => steckt darin
+Samm ich => Samml' ich
+@@ 77
+GloEentöne => Glockentöne
+blikte => blickte
+wollt", => wollt',
+@@ 78
+Spiel . => Spiel
+gebrochen. Y => gebrochen.
+verstuken => verstutzen
+nußen => nutzen
+Gold 4 => Gold
+@@ 97
+Signal, => Signal.
+Nosen => Rosen
+Fu 4 DRE => 
+PIBLIGTEUERKN => 
+R EIA => 
+MONACENSIS, => 
+@@ 98
+Nähe in der Ferne, => Nähe in der Ferne.
+I bin => Ich bin
+Bli -- => Blick —
+@@ 72
+# Figurengedichte (gedreht gesetzt, „Hier ist die Kapelle“); wie bisher nicht aufgenommen
+@@ 73
+# Figurengedicht („Dies ist die Hölle“); wie bisher nicht aufgenommen
+@@ 99
+Blie lieb- => Blicke lieb-
+@@ 102
+Rattenfänger => Rattenfänger.
+jekt Jahrmarkt => jetzt Jahrmarkt
+schmuken => schmucken
+@@ 103
+Gilt's jeht => Gilt's jetzt
+Jekt kann => Jetzt kann
+@@ 105
+schübt => schützt
+Drinn siedeln => Drin siedeln
+Nhythmen => Rhythmen
+Nitornelle => Ritornelle
+@@ 106
+Schag ! => Schatz!
+Rasenpkaß => Rasenplatz
+Perlenschmu => Perlenschmuck
+Schaß ! => Schatz!
+entdektest => entdecktest
+Sieh. nur => Sieh nur
+@@ 107
+EEE... cn => 
+Glütck => Glück
+Seßke => Setze
+@@ 109
+Kreise, => Kreise.
+Führe jeht => Führe jetzt
+Blond" => Blond'
+Schäfer. = | => Schäfer.
+@@ 33
+Cras ingens iterabimus aequor. => 
+# FREMDTEXT entfernt: lateinischer Titel (Horaz)
+(Der Flüchtling spricht : ) => (Der Flüchtling spricht:)
+@@ 111
+Im Augutft, => Im August.
+sikße => sitze
+leßte Tropfen => letzte Tropfen
+lekßte => letzte
+noh einmal => noch einmal
+glüklich => glücklich
+@@ 113
+Dritte Abtheilung. => 
+And thou art dead as young and sair., => 
+(Nach Byron.) => 
+„ Heu quanto minus est cnm reliquis => 
+versari quam tui meminisse. => 
+# FREMDTEXT entfernt: englischer Titel, lateinisches Motto, Hinweis „Nach Byron“; Abteilungstitel. Nachdichtung bleibt
+@@ 114
+mein Bli! => mein Blick!
+jekt nicht trüben => jetzt nicht trüben
+troßt => trotzt
+@@ 115
+Sclafes => Schlafes
+jeht noch => jetzt noch
+Naum --- => Raum —
+Schmu. => Schmuck.
+So- schauriger => So schauriger
+@@ 116
+I nächtens => Ich nächtens
+Gestüßt => Gestützt
+jekt noch => jetzt noch
+Blik => Blick
+jekt ist's mein bestes GlüE. => jetzt ist's mein bestes Glück.
+@@ 117
+Fare thee well and if sor ever. => 
+(Nach Byron. ) => 
+# FREMDTEXT entfernt: englischer Titel, Hinweis „Nach Byron“; Nachdichtung bleibt
+Mas du => Was du
+@@ 119
+ras'tz => ras't;
+Doh dir => Doch dir
+getroßt => getrotzt
+verlier" => verlier'
+Jeko, => Jetzo,
+leßte => letzte
+@@ 135
+(Es ist => Es ist
+macht! ich's => macht' ich's
+Nosen => Rosen
+Stölein => Stöcklein
+@@ 136
+Doh fragt' => Doch fragt'
+@@ 137
+Vergessen, => Vergessen.
+(Im April. ) => (Im April.)
+Schmukck => Schmuck
+Nochh => Noch
+Doh wenn => Doch wenn
+Necht, => Recht,
+@@ 141
+Musikfaal, => Musiksaal.
+abgesteten => abgesteckten
+Spit => Spitz'
+Müg', => Mütz',
+Glückk => Glück
+Necht, => Recht,
+zulekßt => zuletzt
+@@ 142
+gelingen. : => gelingen.
+Mann ! 2 => Mann!
+wir . => wir
+gesessen ; | 4 => gesessen;
+hier | => hier
+vergessen. EE => vergessen.
+Tag ; => Tag
+nach ! ' => nach!
+Fug 1 => Fug
+Segensspruch : : => Segensspruch:
+Melodei 4 => Melodei
+sei ! . => sei!
+Mädchenreih'n 72 => Mädchenreih'n
+@@ 143
+Oberon, => Oberon.
+Leggiadra,. => Leggiadra.
+Ning! => Ring!
+Ruhz => Ruh;
+dauern => dauern?
+Suh. => Schuh.
+@@ 144
+gefallen, - => gefallen,
+siken Feen => sitzen Feen
+Ichh muß => Ich muß
+Plaß => Platz
+@@ 145
+siken sie => sitzen sie
+@@ 146 VOLL
+Am 18. Mai 1842.
+Die Schwestern, die der Braut zum Kranz
+Geflochten einst die Myrthen,
+Sie sind's, die diesem Lichterglanz
+Sie heut' entgegenführten.
+Und wieder steht dasselbe Paar
+Unter demselben Dache!
+Und wahrlich! fünf und zwanzig Jahr
+Sind keine kleine Sache.
+Silvia und Undine.
+Silvia. Wo die Blätter rauschen,
+Da muß ich sein,
+Im Mittagsweben,
+Im Mondenschein.
+Undine. Wo die Quellen sprudeln,
+Im Wald, im Wald,
+Da horch' ich leise,
+Wie das Wasser wallt.
+Silvia. Die Elfe des Waldes,
+Sie ist dir bekannt.
+Undine. Undine die kleinste,
+So bin ich genannt.
+Silvia. Mich schmückte mit grünen
+Zweigen mein Baum.
+Undine. Kennt das Band ihr, das blaue,
+Und den feuchten Saum?
+@@ 147
+riesel* => riesel'
+Silvia, Doch => Silvia. Doch
+gepflücte => gepflückte
+@@ 148
+Ja suche nur wiede => Ja suche nur wieder
+Waldeinsamfkeit ! : => Waldeinsamkeit!
+i Undine. => Undine.
+wieder / => wieder
+wolbn => woll'n
+Stern", => Stern',
+Geshihtm => Geschichten
+gern. : => gern.
+IFS => 
+@@ 149
+Elfe Amor, => Elfe Amor.
+Jett bin => Jetzt bin
+Work => Werk
+@@ 150
+Elfe Argenis, => Elfe Argenis.
+Bo da blißen => Wo da blitzen
+Schlacken - => Schlacken
+Brennen | => Brennen
+Hoh'z => Höh';
+I Fzg => 
+@@ 151
+Ichh komme => Ich komme
+Schmu in => Schmuck in
+@@ 152
+Kobold, => Kobold.
+nuß z; 74,00 => nutz;
+weht "= => jetzt —
+Zeit, - => Zeit,
+Shlehts => Schlechts
+zwi ihn => zwick' ihn
+neck" => neck'
+tü ihn => tück' ihn
+@@ 153
+Spasz => Spaß
+'einst => einst
+Llumensorten => Blumensorten
+dasz => daß
+@@ 154
+herausgebracht. “ => herausgebracht.“
+gemacht. " => gemacht.
+Hätt! ich => Hätt' ich
+wnn => 
+Schat! => Schatz!
+Hausschak => Hausschatz
+PEE, 35-2087 => 
+@@ 155
+Jekt thun => Jetzt thun
+Zulekt => Zuletzt
+@@ 157
+Eduard Mörike, => Eduard Mörike.
+Necht behält => Recht behält
+lezte Rose => letzte Rose
+@@ 158
+Georg Herwegh, => Georg Herwegh.
+(21 Bogen.) => 
+Haus | => Haus
+erkenn' dih! => erkenn' dich!
+Dichter z : => Dichter;
+hoh, die => hoch, die
+Lichter. I => Lichter.
+anvertrauten, - We . => anvertrauten,
+Lauten, pe => Lauten,
+@@ 159
+Die dich ; den => Die dich, den
+@@ 160
+(Bd. 1-4.) VE WGER => 
+sißt der Uhu, EEE => sitzt der Uhu,
+hin und her, ; ; => hin und her,
+vabuhuh ! REH => vabuhuh!
+leer. ea, => leer.
+ausgestorben, LE 5 => ausgestorben,
+so- schön, 32007 => so schön,
+verdorben, 3. Gee => verdorben,
+besehn ! E50: => besehn!
+erschroen, EE => erschrocken,
+Buh; es => Buch;
+Glo, => Glocken,
+zumal, En => zumal,
+@@ 161
+HäuSliche Angelegenheiten, => Häusliche Angelegenheiten.
+jekt von => jetzt von
+fiel. . => fiel.
+@@ 162
+si Relativ, => Relativ.
+Penaten, => Penaten.
+j Dran => Dran
+jj + Hellenifka, => Hellenika.
+h-- Nur => Nur
+@@ 164
+Der alte Don Quirote, => Der alte Don Quixote.
+j Der Lebendige => Der Lebendige
+j Sind aus => Sind aus
+Finten : j => Finten:
+„ Erst => „Erst
+hinten! “ ; => hinten!“
+„FeS 7 => 
+jebt, => jetzt,
+verseßt => versetzt
+beriefen, : ; => beriefen,
+Port. EEE => Port.
+@@ 165
+Exodus, => Exodus.
+Nhein => Rhein
+keines8wegs => keineswegs
+iS auf => auf
+gedrut => gedruckt
+@@ 166 VOLL
+Wie steht ihr zum Erbarmen da, ihr groß und kleinen Lichter,
+Bei ihm, der immer war ein Mann und manchmal auch ein Dichter!
+Noch schleppt die Zeit den Faden nach, zerbrach sie auch dein Wappen;
+Heinrich! mir graut's vor dir noch mehr, als selbst vor deinen Knappen.
+Das bückt sich und das streichelt sich, das drängt sich und das treibt sich,
+Das giebt ein Buch und einen Band, da schickt ihr's denn nach Leipzig.
+Als Thoren war't ihr besser weit als jetzt, da seid ihr Kluge;
+Ihr seid noch hier, das sehen wir; doch wo ist Arnold Ruge?
+Ubique schickt dir seinen Gruß, du Hamburgs kritischer Minos,
+Weil du die Wihle jüngst, die Brut gelobt hast des Karkinos!
+So reformirt man die Kritik! Wo sind die Ideale?
+Kommst du an uns, so schick's uns zu; wir lesen nicht Journale.
+@@ 167
+Gesel!'n => Gesell'n
+ven Jahr => von Jahr
+@@ 168
+Tadelz => Tadel;
+jekt die => jetzt die
+Zulekt => Zuletzt
+iss nicht => ist's nicht
+Schande; 6 => Schande;
+Vaterlande. - => Vaterlande.
+stimmte ! | => stimmte!
+Saiten, - => Saiten,
+@@ 170 VOLL
+Es ist uns etwas Uebermuth im Leben nachgeblieben,
+Den haben wir für's Publikum in Versen aufgeschrieben.
+Für's Handwerk sind sie freilich nicht, noch für die Abgemuckten;
+Dem jungen Volk zu Liebe ist's, daß wir sie alle druckten.
+Fragt ihr in Deutschland nur nicht lang', wo dieser Vers gewachsen!
+Die Veilchen sind dieselben ja in Holstein und in Sachsen.
+Euch legen wir sie an das Herz, des Landes lieben Leuten!
+Am besten wisset ihr es doch, wohin die Lieder deuten.
+@@ 169
+Winkelriede. “ => Winkelriede.“
+@@ 168
+Lied - => Lied
+Zeiten - => Zeiten

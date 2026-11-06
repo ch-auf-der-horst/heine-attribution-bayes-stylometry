@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.DS_Store
+arbeit/
+vagabund-1848/textkorrektur_e11/nachrechnung/abb/

@@ -1,0 +1,20 @@
+abbildung,klade,anteil
+eichung_woerter,"Schilda 5, Schilda 7",0.7860
+eichung_woerter,"Schilda 8, Schilda 9",0.6800
+eichung_woerter,"Heine 1, Heine 2",0.5780
+eichung_woerter,"Schilda 1, Schilda 2",0.5200
+profile_woerter,"Heine, Müller, Wunderhorn, Uhland, Geibel, Kandidat",0.9960
+profile_woerter,"Uhland, Geibel",0.8500
+profile_woerter,"Müller, Wunderhorn, Uhland, Geibel",0.8440
+profile_woerter,"Heine, Kandidat",0.7680
+profile_woerter,"Müller, Wunderhorn",0.5860
+profile_zeichen,"Heine, Müller, Wunderhorn, Uhland, Geibel, Kandidat",1.0000
+profile_zeichen,"Müller, Wunderhorn, Uhland, Geibel",1.0000
+profile_zeichen,"Heine, Kandidat",1.0000
+profile_zeichen,"Uhland, Geibel",0.7960
+profile_zeichen,"Müller, Wunderhorn",0.7040
+profile_mfw,"Heine, Müller, Wunderhorn, Uhland, Geibel, Kandidat",1.0000
+profile_mfw,"Müller, Wunderhorn, Uhland, Geibel",1.0000
+profile_mfw,"Heine, Kandidat",1.0000
+profile_mfw,"Müller, Wunderhorn",1.0000
+profile_mfw,"Uhland, Geibel",1.0000

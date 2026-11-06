@@ -1,0 +1,150 @@
+{
+ "Mueller_WvK_1841": {
+  "fehler": 3,
+  "woerter": 216,
+  "beispiele": [
+   [
+    "klar",
+    "flar"
+   ],
+   [
+    "hoch",
+    "hoh"
+   ],
+   [
+    "genießend",
+    "fenießend"
+   ]
+  ]
+ },
+ "Scherr_1842": {
+  "fehler": 21,
+  "woerter": 316,
+  "beispiele": [
+   [
+    "letzten",
+    "lezten"
+   ],
+   [
+    "manch",
+    "man"
+   ],
+   [
+    "das",
+    "vas"
+   ],
+   [
+    "das",
+    "vas"
+   ],
+   [
+    "verpönen",
+    "vergödnen"
+   ],
+   [
+    "den",
+    "ven"
+   ],
+   [
+    "rhythmischen",
+    "rhythmishen"
+   ],
+   [
+    "spitzigen",
+    "spibigen"
+   ],
+   [
+    "dem",
+    "vem"
+   ],
+   [
+    "lovd",
+    "loyd"
+   ],
+   [
+    "never",
+    "neyer"
+   ],
+   [
+    "burns",
+    "burnns"
+   ],
+   [
+    "letzte",
+    "lebte"
+   ],
+   [
+    "letzen",
+    "leben"
+   ],
+   [
+    "ich",
+    "ih"
+   ],
+   [
+    "fetzen",
+    "feßen"
+   ],
+   [
+    "seinem nest",
+    "scinem neft"
+   ],
+   [
+    "brütend",
+    "brütendz"
+   ],
+   [
+    "selbstquälerisch",
+    "selbsiquälerisch"
+   ],
+   [
+    "hinzusiechen",
+    "hinzusiehen"
+   ]
+  ]
+ },
+ "Storm_1843": {
+  "fehler": 7,
+  "woerter": 340,
+  "beispiele": [
+   [
+    "damour",
+    "da mour"
+   ],
+   [
+    "blicke",
+    "blie"
+   ],
+   [
+    "",
+    "4"
+   ],
+   [
+    "rief",
+    "nief"
+   ],
+   [
+    "antlitz",
+    "antlig"
+   ],
+   [
+    "antlitz",
+    "antliß"
+   ]
+  ]
+ },
+ "ThMommsen_1843": {
+  "fehler": 3,
+  "woerter": 337,
+  "beispiele": [
+   [
+    "zehntausend",
+    "zehn tausend"
+   ],
+   [
+    "ich",
+    "ichh"
+   ]
+  ]
+ }
+}

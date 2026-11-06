@@ -1,0 +1,14 @@
+blind_ergebnis.json: bitgleich
+e1.json: bitgleich
+e11.json: verändert
+e2.json: bitgleich
+e3.json: bitgleich
+e3_ohne_ueberlieferung.json: bitgleich
+e7.json: bitgleich
+e9ab.json: bitgleich
+kalibrierung.json: bitgleich
+openset.json: bitgleich
+
+Skripte (kal/, norm/) unverändert: diff -rq ohne Befund
+Python 3.10.12, NumPy 2.2.6
+Lauf: 2026-10-31T10:14Z

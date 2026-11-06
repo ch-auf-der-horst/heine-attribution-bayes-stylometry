@@ -1,0 +1,25 @@
+{
+  "studie": "Studie 6",
+  "seed": 20261013,
+  "baum_seed": [
+    20261013,
+    6
+  ],
+  "probenlaenge": 548,
+  "nebenlaenge": 351,
+  "mfw": 150,
+  "mfw_bericht": [
+    100,
+    300
+  ],
+  "zeichen_n": 4,
+  "zeichen_n_bericht": [
+    3,
+    5
+  ],
+  "zeichen_haeufigste": 500,
+  "versatz": 0,
+  "eichung": "nur Heine-Profile der Tafel",
+  "entscheidung": "548, Wörter 150 und Zeichen 4",
+  "dateiliste": "analyse/studie6_dateien.csv"
+}

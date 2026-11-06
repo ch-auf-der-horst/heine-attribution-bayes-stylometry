@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: >-
+  If you use these data or scripts, please cite this repository and the
+  accompanying article. A version archived with a DOI will follow on
+  publication.
+type: software
+title: >-
+  Heine Attribution Studies: Bayesian and Stylometric Authentication
+  of Pseudo-Heineana (Case 1: Der Vagabund, 1848)
+authors:
+  - family-names: auf der Horst
+    given-names: Christoph
+    affiliation: Heinrich-Heine-Universität Düsseldorf
+    orcid: 'https://orcid.org/0000-0002-9372-7537'
+repository-code: 'https://github.com/ch-auf-der-horst/heine-attribution-bayes-stylometry'
+abstract: >-
+  Data and scripts for assessing the authenticity of texts attributed to
+  Heinrich Heine. Case 1 (folder vagabund-1848): texts, scripts, test
+  protocols and results for the attribution of ten poems that Enno Hektor
+  printed in 1848 in the journal Der Vagabund as poems by Heinrich Heine:
+  Bayesian assessment with a reference class and sensitivity analysis,
+  calibrated stylometry (Cosine Delta) on short texts.
+keywords:
+  - Heinrich Heine
+  - Pseudo-Heineana
+  - authorship attribution
+  - Bayesian inference
+  - likelihood ratio
+  - stylometry
+  - Cosine Delta
+  - short texts
+license:
+  - MIT
+  - CC-BY-4.0
+  - CC-BY-SA-4.0
+version: 1.0.0

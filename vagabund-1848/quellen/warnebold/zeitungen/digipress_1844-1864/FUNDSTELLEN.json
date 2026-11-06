@@ -1,0 +1,30 @@
+[
+  {
+    "date": "1858-10-20",
+    "status": "Bericht ueber Warnebold; Korrespondenzzeichen a ungeloest",
+    "viewer": "https://digipress.digitale-sammlungen.de/view/bsb10487689_00231_u001?page=9",
+    "ocr": "https://api.digitale-sammlungen.de/ocr/bsb10487689/239",
+    "image": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb10487689_00239/full/full/0/default.jpg"
+  },
+  {
+    "date": "1859-01-10",
+    "status": "Bericht ueber Warnebold; keine gesicherte Eigenprosa",
+    "viewer": "https://digipress.digitale-sammlungen.de/view/bsb10487690_00101_u001?page=1",
+    "ocr": "https://api.digitale-sammlungen.de/ocr/bsb10487690/101",
+    "image": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb10487690_00101/full/full/0/default.jpg"
+  },
+  {
+    "date": "1859-05-06",
+    "status": "Anzeige C. Warnebold; nicht Ernst zugeordnet",
+    "viewer": "https://digipress.digitale-sammlungen.de/view/bsb10487691_00461_u001?page=12",
+    "ocr": "https://api.digitale-sammlungen.de/ocr/bsb10487691/472",
+    "image": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb10487691_00472/full/full/0/default.jpg"
+  },
+  {
+    "date": "1859-05-07",
+    "status": "Wiederholte Anzeige C. Warnebold; nicht Ernst zugeordnet",
+    "viewer": "https://digipress.digitale-sammlungen.de/view/bsb10487691_00477_u001?page=10",
+    "ocr": "https://api.digitale-sammlungen.de/ocr/bsb10487691/486",
+    "image": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb10487691_00486/full/full/0/default.jpg"
+  }
+]

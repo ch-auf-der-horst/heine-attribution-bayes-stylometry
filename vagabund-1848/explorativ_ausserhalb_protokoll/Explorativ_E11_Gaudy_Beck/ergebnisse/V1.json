@@ -1,0 +1,75 @@
+{
+ "Ergebnisse": [
+  {
+   "Mass": "Delta Wörter (MFW150)",
+   "Kandidat_s": 0.004,
+   "AUC_A2_gg_Nachahmer": 0.816,
+   "Tor": true,
+   "A2_mind_so_nah": "21/30",
+   "Nachahmer_mind_so_nah": "25/92",
+   "Nachahmer_95": [
+    0.19,
+    0.37
+   ],
+   "Nachahmer_heine_nah_s_gt_0": "27/92",
+   "je_Verfasser": {
+    "Mueller_WvK_1841": "6/15 (s>0: 6)",
+    "Scherr_1842": "3/23 (s>0: 3)",
+    "Storm_1843": "3/7 (s>0: 3)",
+    "ThMommsen_1843": "7/17 (s>0: 7)",
+    "Gaudy_1829_1833": "3/19 (s>0: 3)",
+    "Beck_1840": "3/11 (s>0: 5)"
+   },
+   "LR": 2.53,
+   "log10LR": 0.403
+  },
+  {
+   "Mass": "Zeichen-4-Gramme",
+   "Kandidat_s": 0.234,
+   "AUC_A2_gg_Nachahmer": 0.8,
+   "Tor": true,
+   "A2_mind_so_nah": "0/30",
+   "Nachahmer_mind_so_nah": "0/92",
+   "Nachahmer_95": [
+    -0.0,
+    0.04
+   ],
+   "Nachahmer_heine_nah_s_gt_0": "30/92",
+   "je_Verfasser": {
+    "Mueller_WvK_1841": "0/15 (s>0: 9)",
+    "Scherr_1842": "0/23 (s>0: 3)",
+    "Storm_1843": "0/7 (s>0: 3)",
+    "ThMommsen_1843": "0/17 (s>0: 4)",
+    "Gaudy_1829_1833": "0/19 (s>0: 5)",
+    "Beck_1840": "0/11 (s>0: 6)"
+   },
+   "LR": 3.0,
+   "log10LR": 0.477
+  },
+  {
+   "Mass": "Versmerkmale (E-7, gleiches Versmaß)",
+   "Kandidat_s": 0.226,
+   "AUC_A2_gg_Nachahmer": 0.539,
+   "Tor": false,
+   "A2_mind_so_nah": "7/15",
+   "Nachahmer_mind_so_nah": "5/12",
+   "Nachahmer_95": [
+    0.19,
+    0.68
+   ],
+   "Nachahmer_heine_nah_s_gt_0": "7/12",
+   "je_Verfasser": {
+    "Mueller_WvK_1841": "0/2 (s>0: 0)",
+    "Scherr_1842": "0/0 (s>0: 0)",
+    "Storm_1843": "1/1 (s>0: 1)",
+    "ThMommsen_1843": "1/2 (s>0: 1)",
+    "Gaudy_1829_1833": "3/5 (s>0: 5)",
+    "Beck_1840": "0/2 (s>0: 0)"
+   },
+   "LR": 1.11,
+   "log10LR": 0.045
+  }
+ ],
+ "Wertung_H1_H3": 0.44,
+ "Massen_mit_Tor": 2
+}

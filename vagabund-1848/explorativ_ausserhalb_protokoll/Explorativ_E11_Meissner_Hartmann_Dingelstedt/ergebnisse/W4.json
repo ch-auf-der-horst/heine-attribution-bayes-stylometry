@@ -1,0 +1,72 @@
+{
+ "Ergebnisse": [
+  {
+   "Mass": "Delta Wörter (MFW150)",
+   "Kandidat_s": 0.004,
+   "AUC_A2_gg_Nachahmer": 0.86,
+   "Tor": true,
+   "A2_mind_so_nah": "21/30",
+   "Nachahmer_mind_so_nah": "16/87",
+   "Nachahmer_95": [
+    0.12,
+    0.28
+   ],
+   "Nachahmer_heine_nah_s_gt_0": "18/87",
+   "je_Verfasser": {
+    "Gaudy_1829_1833": "3/19 (s>0: 3)",
+    "Beck_1840": "3/11 (s>0: 5)",
+    "Meissner_1846": "5/19 (s>0: 5)",
+    "Hartmann_1845_1847": "2/19 (s>0: 2)",
+    "Dingelstedt_1842": "3/19 (s>0: 3)"
+   },
+   "LR": 3.7,
+   "log10LR": 0.568
+  },
+  {
+   "Mass": "Zeichen-4-Gramme",
+   "Kandidat_s": 0.234,
+   "AUC_A2_gg_Nachahmer": 0.825,
+   "Tor": true,
+   "A2_mind_so_nah": "0/30",
+   "Nachahmer_mind_so_nah": "0/87",
+   "Nachahmer_95": [
+    0.0,
+    0.04
+   ],
+   "Nachahmer_heine_nah_s_gt_0": "24/87",
+   "je_Verfasser": {
+    "Gaudy_1829_1833": "0/19 (s>0: 5)",
+    "Beck_1840": "0/11 (s>0: 6)",
+    "Meissner_1846": "0/19 (s>0: 4)",
+    "Hartmann_1845_1847": "0/19 (s>0: 2)",
+    "Dingelstedt_1842": "0/19 (s>0: 7)"
+   },
+   "LR": 2.84,
+   "log10LR": 0.453
+  },
+  {
+   "Mass": "Versmerkmale (E-7, gleiches Versmaß)",
+   "Kandidat_s": 0.226,
+   "AUC_A2_gg_Nachahmer": 0.626,
+   "Tor": false,
+   "A2_mind_so_nah": "7/15",
+   "Nachahmer_mind_so_nah": "3/13",
+   "Nachahmer_95": [
+    0.08,
+    0.5
+   ],
+   "Nachahmer_heine_nah_s_gt_0": "7/13",
+   "je_Verfasser": {
+    "Gaudy_1829_1833": "3/5 (s>0: 5)",
+    "Beck_1840": "0/2 (s>0: 0)",
+    "Meissner_1846": "0/1 (s>0: 0)",
+    "Hartmann_1845_1847": "0/3 (s>0: 1)",
+    "Dingelstedt_1842": "0/2 (s>0: 1)"
+   },
+   "LR": 1.88,
+   "log10LR": 0.273
+  }
+ ],
+ "Wertung_H1_H3": 0.5,
+ "Massen_mit_Tor": 2
+}

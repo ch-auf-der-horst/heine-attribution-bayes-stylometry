@@ -1,0 +1,99 @@
+[
+ {
+  "id": "P01",
+  "klasse": "A2",
+  "block": 8,
+  "quelle": [
+   "A2_020",
+   "A2_021"
+  ]
+ },
+ {
+  "id": "P02",
+  "klasse": "A2",
+  "block": 26,
+  "quelle": [
+   "A2_123",
+   "A2_124",
+   "A2_125",
+   "A2_126",
+   "A2_127",
+   "A2_128",
+   "A2_129",
+   "A2_130",
+   "A2_131"
+  ]
+ },
+ {
+  "id": "P03",
+  "klasse": "A2",
+  "block": 32,
+  "quelle": [
+   "A2_170",
+   "A2_171",
+   "A2_172",
+   "A2_173",
+   "A2_174",
+   "A2_175",
+   "A2_176",
+   "A2_177",
+   "A2_178"
+  ]
+ },
+ {
+  "id": "P04",
+  "klasse": "C2",
+  "block": 18,
+  "quelle": [
+   "Geibel_Buecher"
+  ]
+ },
+ {
+  "id": "P05",
+  "klasse": "C2",
+  "block": 28,
+  "quelle": [
+   "Geibel_Buecher"
+  ]
+ },
+ {
+  "id": "P06",
+  "klasse": "C2",
+  "block": 35,
+  "quelle": [
+   "Geibel_Buecher"
+  ]
+ },
+ {
+  "id": "P07",
+  "klasse": "C3",
+  "block": 25,
+  "quelle": [
+   "Mueller_2"
+  ]
+ },
+ {
+  "id": "P08",
+  "klasse": "C3",
+  "block": 44,
+  "quelle": [
+   "Wunderhorn_1806"
+  ]
+ },
+ {
+  "id": "P09",
+  "klasse": "C3",
+  "block": 134,
+  "quelle": [
+   "Wunderhorn_1806"
+  ]
+ },
+ {
+  "id": "P10",
+  "klasse": "B2",
+  "block": 3,
+  "quelle": [
+   "Hektor_Schilda"
+  ]
+ }
+]

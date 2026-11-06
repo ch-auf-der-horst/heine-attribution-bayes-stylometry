@@ -1,0 +1,2223 @@
+{
+ "H1b_Entsprechungen_BdL": {
+  "Agrippina 1": [],
+  "Agrippina 3": [
+   "Die Heimkehr XXX."
+  ],
+  "Agrippina 5": [],
+  "Agrippina 6": [],
+  "Agrippina 7": [],
+  "Agrippina 8": [
+   "Die Heimkehr XXV."
+  ],
+  "Agrippina 10": [],
+  "Agrippina 11": [
+   "Die Heimkehr LXXX."
+  ],
+  "Rheinblüthen I": [
+   "Die Heimkehr XLV."
+  ],
+  "Rheinblüthen II": [
+   "Die Heimkehr XLIV."
+  ],
+  "Rheinblüthen III": [],
+  "Rheinblüthen IV": [
+   "Die Heimkehr XXXV."
+  ],
+  "Rheinblüthen V": [
+   "Die Heimkehr XXXVI."
+  ],
+  "Rheinblüthen VI": [
+   "Die Heimkehr XXXIV."
+  ],
+  "Biene I": [
+   "Die Heimkehr I."
+  ],
+  "Biene II": [
+   "Die Heimkehr LXII."
+  ],
+  "Biene III": [
+   "Die Heimkehr LX."
+  ],
+  "Biene IV": [
+   "Die Heimkehr XXXII."
+  ],
+  "Biene V": [
+   "Die Heimkehr XXXIII."
+  ],
+  "Biene VI": [
+   "Die Heimkehr XLII."
+  ],
+  "Biene VII": [
+   "Die Heimkehr XLIII."
+  ]
+ },
+ "H1bplus_Entsprechungen_BdL": [
+  "Die Heimkehr I.",
+  "Die Heimkehr LX.",
+  "Die Heimkehr LXII.",
+  "Die Heimkehr LXXX.",
+  "Die Heimkehr XLII.",
+  "Die Heimkehr XLIII.",
+  "Die Heimkehr XLIV.",
+  "Die Heimkehr XLV.",
+  "Die Heimkehr XXV.",
+  "Die Heimkehr XXX.",
+  "Die Heimkehr XXXII.",
+  "Die Heimkehr XXXIII.",
+  "Die Heimkehr XXXIV.",
+  "Die Heimkehr XXXV.",
+  "Die Heimkehr XXXVI."
+ ],
+ "Beschreibung": {
+  "Delta Wörter (MFW150) | 548": {
+   "cand": 0.0040754285551541924,
+   "H1a": {
+    "n": 30,
+    "median": 0.056,
+    "mind_so_nah": "21/30"
+   },
+   "H1b": {
+    "n": 2,
+    "median": 0.15,
+    "mind_so_nah": "2/2"
+   },
+   "H1b+": {
+    "n": 3,
+    "median": 0.139,
+    "mind_so_nah": "3/3"
+   },
+   "H1c_Haupt": {
+    "n": 20,
+    "median": 0.032,
+    "mind_so_nah": "14/20"
+   },
+   "H1c_mitZeit": {
+    "n": 20,
+    "median": 0.04,
+    "mind_so_nah": "12/20"
+   },
+   "Gaudy_1829_1833": {
+    "n": 19,
+    "median": -0.122,
+    "mind_so_nah": "3/19"
+   },
+   "Gaudy_Lieder_1829_1833": {
+    "n": 10,
+    "median": -0.035,
+    "mind_so_nah": "2/10"
+   },
+   "Beck_1840": {
+    "n": 11,
+    "median": -0.0,
+    "mind_so_nah": "3/11"
+   },
+   "Meissner_1846": {
+    "n": 19,
+    "median": -0.082,
+    "mind_so_nah": "5/19"
+   },
+   "Hartmann_1845_1847": {
+    "n": 19,
+    "median": -0.048,
+    "mind_so_nah": "2/19"
+   },
+   "Dingelstedt_1842": {
+    "n": 19,
+    "median": -0.03,
+    "mind_so_nah": "3/19"
+   },
+   "Mueller_WvK_1841": {
+    "n": 15,
+    "median": -0.005,
+    "mind_so_nah": "6/15"
+   },
+   "Scherr_1842": {
+    "n": 23,
+    "median": -0.069,
+    "mind_so_nah": "3/23"
+   },
+   "Storm_1843": {
+    "n": 7,
+    "median": -0.019,
+    "mind_so_nah": "3/7"
+   },
+   "ThMommsen_1843": {
+    "n": 17,
+    "median": -0.003,
+    "mind_so_nah": "7/17"
+   },
+   "Steinmann_1861": {
+    "n": 20,
+    "median": -0.061,
+    "mind_so_nah": "4/20"
+   }
+  },
+  "Delta Wörter (MFW150) | 274": {
+   "cand": -0.007114258831814602,
+   "cand_haelften": [
+    -0.005241948812536368,
+    -0.008986568851092835
+   ],
+   "H1a": {
+    "n": 60,
+    "median": 0.039,
+    "mind_so_nah": "44/60"
+   },
+   "H1b": {
+    "n": 4,
+    "median": 0.108,
+    "mind_so_nah": "4/4"
+   },
+   "H1b+": {
+    "n": 7,
+    "median": 0.074,
+    "mind_so_nah": "6/7"
+   },
+   "H1c_Haupt": {
+    "n": 40,
+    "median": 0.029,
+    "mind_so_nah": "29/40"
+   },
+   "H1c_mitZeit": {
+    "n": 41,
+    "median": 0.038,
+    "mind_so_nah": "29/41"
+   },
+   "Gaudy_1829_1833": {
+    "n": 38,
+    "median": -0.067,
+    "mind_so_nah": "10/38"
+   },
+   "Gaudy_Lieder_1829_1833": {
+    "n": 20,
+    "median": -0.028,
+    "mind_so_nah": "9/20"
+   },
+   "Beck_1840": {
+    "n": 23,
+    "median": -0.008,
+    "mind_so_nah": "11/23"
+   },
+   "Meissner_1846": {
+    "n": 39,
+    "median": -0.063,
+    "mind_so_nah": "9/39"
+   },
+   "Hartmann_1845_1847": {
+    "n": 39,
+    "median": -0.043,
+    "mind_so_nah": "7/39"
+   },
+   "Dingelstedt_1842": {
+    "n": 39,
+    "median": -0.027,
+    "mind_so_nah": "12/39"
+   },
+   "Mueller_WvK_1841": {
+    "n": 31,
+    "median": -0.025,
+    "mind_so_nah": "12/31"
+   },
+   "Scherr_1842": {
+    "n": 47,
+    "median": -0.076,
+    "mind_so_nah": "7/47"
+   },
+   "Storm_1843": {
+    "n": 15,
+    "median": 0.02,
+    "mind_so_nah": "8/15"
+   },
+   "ThMommsen_1843": {
+    "n": 35,
+    "median": -0.009,
+    "mind_so_nah": "17/35"
+   },
+   "Steinmann_1861": {
+    "n": 40,
+    "median": -0.05,
+    "mind_so_nah": "8/40"
+   }
+  },
+  "Zeichen-4-Gramme | 548": {
+   "cand": 0.2336524395563182,
+   "H1a": {
+    "n": 30,
+    "median": 0.071,
+    "mind_so_nah": "0/30"
+   },
+   "H1b": {
+    "n": 2,
+    "median": 0.229,
+    "mind_so_nah": "1/2"
+   },
+   "H1b+": {
+    "n": 3,
+    "median": 0.182,
+    "mind_so_nah": "1/3"
+   },
+   "H1c_Haupt": {
+    "n": 20,
+    "median": 0.026,
+    "mind_so_nah": "0/20"
+   },
+   "H1c_mitZeit": {
+    "n": 20,
+    "median": 0.021,
+    "mind_so_nah": "0/20"
+   },
+   "Gaudy_1829_1833": {
+    "n": 19,
+    "median": -0.097,
+    "mind_so_nah": "0/19"
+   },
+   "Gaudy_Lieder_1829_1833": {
+    "n": 10,
+    "median": 0.002,
+    "mind_so_nah": "0/10"
+   },
+   "Beck_1840": {
+    "n": 11,
+    "median": 0.018,
+    "mind_so_nah": "0/11"
+   },
+   "Meissner_1846": {
+    "n": 19,
+    "median": -0.137,
+    "mind_so_nah": "0/19"
+   },
+   "Hartmann_1845_1847": {
+    "n": 19,
+    "median": -0.072,
+    "mind_so_nah": "0/19"
+   },
+   "Dingelstedt_1842": {
+    "n": 19,
+    "median": -0.046,
+    "mind_so_nah": "0/19"
+   },
+   "Mueller_WvK_1841": {
+    "n": 15,
+    "median": 0.01,
+    "mind_so_nah": "0/15"
+   },
+   "Scherr_1842": {
+    "n": 23,
+    "median": -0.101,
+    "mind_so_nah": "0/23"
+   },
+   "Storm_1843": {
+    "n": 7,
+    "median": -0.008,
+    "mind_so_nah": "0/7"
+   },
+   "ThMommsen_1843": {
+    "n": 17,
+    "median": -0.062,
+    "mind_so_nah": "0/17"
+   },
+   "Steinmann_1861": {
+    "n": 20,
+    "median": -0.143,
+    "mind_so_nah": "0/20"
+   }
+  },
+  "Zeichen-4-Gramme | 274": {
+   "cand": 0.17420819634590357,
+   "cand_haelften": [
+    0.1716707723487978,
+    0.17674562034300934
+   ],
+   "H1a": {
+    "n": 60,
+    "median": 0.055,
+    "mind_so_nah": "5/60"
+   },
+   "H1b": {
+    "n": 4,
+    "median": 0.152,
+    "mind_so_nah": "2/4"
+   },
+   "H1b+": {
+    "n": 7,
+    "median": 0.08,
+    "mind_so_nah": "3/7"
+   },
+   "H1c_Haupt": {
+    "n": 40,
+    "median": 0.023,
+    "mind_so_nah": "0/40"
+   },
+   "H1c_mitZeit": {
+    "n": 41,
+    "median": 0.027,
+    "mind_so_nah": "0/41"
+   },
+   "Gaudy_1829_1833": {
+    "n": 38,
+    "median": -0.073,
+    "mind_so_nah": "0/38"
+   },
+   "Gaudy_Lieder_1829_1833": {
+    "n": 20,
+    "median": 0.01,
+    "mind_so_nah": "0/20"
+   },
+   "Beck_1840": {
+    "n": 23,
+    "median": 0.01,
+    "mind_so_nah": "2/23"
+   },
+   "Meissner_1846": {
+    "n": 39,
+    "median": -0.095,
+    "mind_so_nah": "0/39"
+   },
+   "Hartmann_1845_1847": {
+    "n": 39,
+    "median": -0.056,
+    "mind_so_nah": "0/39"
+   },
+   "Dingelstedt_1842": {
+    "n": 39,
+    "median": -0.019,
+    "mind_so_nah": "1/39"
+   },
+   "Mueller_WvK_1841": {
+    "n": 31,
+    "median": -0.003,
+    "mind_so_nah": "0/31"
+   },
+   "Scherr_1842": {
+    "n": 47,
+    "median": -0.063,
+    "mind_so_nah": "0/47"
+   },
+   "Storm_1843": {
+    "n": 15,
+    "median": 0.031,
+    "mind_so_nah": "0/15"
+   },
+   "ThMommsen_1843": {
+    "n": 35,
+    "median": -0.025,
+    "mind_so_nah": "0/35"
+   },
+   "Steinmann_1861": {
+    "n": 40,
+    "median": -0.097,
+    "mind_so_nah": "0/40"
+   }
+  },
+  "Versmerkmale (E-7) | 548": {
+   "cand": 0.22596195256192564,
+   "H1a": {
+    "n": 15,
+    "median": 0.203,
+    "mind_so_nah": "7/15"
+   },
+   "H1b": {
+    "n": 1,
+    "median": 0.865,
+    "mind_so_nah": "1/1"
+   },
+   "H1b+": {
+    "n": 2,
+    "median": 0.427,
+    "mind_so_nah": "1/2"
+   },
+   "H1c_Haupt": {
+    "n": 12,
+    "median": -0.024,
+    "mind_so_nah": "2/12"
+   },
+   "H1c_mitZeit": {
+    "n": 12,
+    "median": 0.117,
+    "mind_so_nah": "4/12"
+   },
+   "Gaudy_1829_1833": {
+    "n": 5,
+    "median": 0.28,
+    "mind_so_nah": "3/5"
+   },
+   "Gaudy_Lieder_1829_1833": {
+    "n": 3,
+    "median": 0.28,
+    "mind_so_nah": "2/3"
+   },
+   "Beck_1840": {
+    "n": 2,
+    "median": -0.862,
+    "mind_so_nah": "0/2"
+   },
+   "Meissner_1846": {
+    "n": 1,
+    "median": -0.388,
+    "mind_so_nah": "0/1"
+   },
+   "Hartmann_1845_1847": {
+    "n": 3,
+    "median": -0.338,
+    "mind_so_nah": "0/3"
+   },
+   "Dingelstedt_1842": {
+    "n": 2,
+    "median": -0.036,
+    "mind_so_nah": "0/2"
+   },
+   "Mueller_WvK_1841": {
+    "n": 2,
+    "median": -0.235,
+    "mind_so_nah": "0/2"
+   },
+   "Scherr_1842": {
+    "n": 0,
+    "median": NaN,
+    "mind_so_nah": "0/0"
+   },
+   "Storm_1843": {
+    "n": 1,
+    "median": 0.317,
+    "mind_so_nah": "1/1"
+   },
+   "ThMommsen_1843": {
+    "n": 2,
+    "median": 0.072,
+    "mind_so_nah": "1/2"
+   },
+   "Steinmann_1861": {
+    "n": 15,
+    "median": -0.402,
+    "mind_so_nah": "1/15"
+   }
+  }
+ },
+ "Laeufe": [
+  {
+   "Variante": "548",
+   "Texte": "Haupt",
+   "H1": "1:1",
+   "H3": "1:1",
+   "Masse": {
+    "Delta Wörter (MFW150)": {
+     "Kandidat_s": 0.004,
+     "AUC": 0.841,
+     "Tor": true,
+     "log10LR": 0.481,
+     "Teilklassen": {
+      "H1a": "21/30",
+      "H1b": "2/2",
+      "H1c": "14/20",
+      "H3a": "12/58",
+      "H3b": "27/111"
+     },
+     "beschreibend": [
+      "H1b"
+     ]
+    },
+    "Zeichen-4-Gramme": {
+     "Kandidat_s": 0.234,
+     "AUC": 0.802,
+     "Tor": true,
+     "log10LR": 0.489,
+     "Teilklassen": {
+      "H1a": "0/30",
+      "H1b": "1/2",
+      "H1c": "0/20",
+      "H3a": "0/58",
+      "H3b": "0/111"
+     },
+     "beschreibend": [
+      "H1b"
+     ]
+    },
+    "Versmerkmale (E-7)": {
+     "Kandidat_s": 0.226,
+     "AUC": 0.671,
+     "Tor": false,
+     "log10LR": 0.222,
+     "Teilklassen": {
+      "H1a": "7/15",
+      "H1b": "1/1",
+      "H1c": "2/12",
+      "H3a": "4/21",
+      "H3b": "2/12"
+     },
+     "beschreibend": [
+      "H1b"
+     ]
+    }
+   },
+   "Wertung": 0.48,
+   "Wertung_ungekappt": 0.485,
+   "Wertung_4g_neutral": 0.24,
+   "Bilanz": {
+    "Haupt_1:5-1:3": "62-73",
+    "offen_unecht_1:7": "54",
+    "skeptisch_Ref": "28-40",
+    "skeptisch_1:7": "22",
+    "skeptisch_1:20-1:7": "9-22"
+   },
+   "Bilanz_4g_neutral": {
+    "Haupt_1:5-1:3": "50-63",
+    "offen_unecht_1:7": "42",
+    "skeptisch_Ref": "20-29",
+    "skeptisch_1:7": "15",
+    "skeptisch_1:20-1:7": "6-15"
+   }
+  },
+  {
+   "Variante": "548",
+   "Texte": "Haupt",
+   "H1": "1:1",
+   "H3": "1:3",
+   "Masse": {
+    "Delta Wörter (MFW150)": {
+     "Kandidat_s": 0.004,
+     "AUC": 0.841,
+     "Tor": true,
+     "log10LR": 0.465,
+     "Teilklassen": {
+      "H1a": "21/30",
+      "H1b": "2/2",
+      "H1c": "14/20",
+      "H3a": "12/58",
+      "H3b": "27/111"
+     },
+     "beschreibend": [
+      "H1b"
+     ]
+    },
+    "Zeichen-4-Gramme": {
+     "Kandidat_s": 0.234,
+     "AUC": 0.802,
+     "Tor": true,
+     "log10LR": 0.563,
+     "Teilklassen": {
+      "H1a": "0/30",
+      "H1b": "1/2",
+      "H1c": "0/20",
+      "H3a": "0/58",
+      "H3b": "0/111"
+     },
+     "beschreibend": [
+      "H1b"
+     ]
+    },
+    "Versmerkmale (E-7)": {
+     "Kandidat_s": 0.226,
+     "AUC": 0.671,
+     "Tor": false,
+     "log10LR": 0.228,
+     "Teilklassen": {
+      "H1a": "7/15",
+      "H1b": "1/1",
+      "H1c": "2/12",
+      "H3a": "4/21",
+      "H3b": "2/12"
+     },
+     "beschreibend": [
+      "H1b"
+     ]
+    }
+   },
+   "Wertung": 0.5,
+   "Wertung_ungekappt": 0.514,
+   "Wertung_4g_neutral": 0.23,
+   "Bilanz": {
+    "Haupt_1:5-1:3": "63-74",
+    "offen_unecht_1:7": "55",
+    "skeptisch_Ref": "29-41",
+    "skeptisch_1:7": "23",
+    "skeptisch_1:20-1:7": "9-23"
+   },
+   "Bilanz_4g_neutral": {
+    "Haupt_1:5-1:3": "50-62",
+    "offen_unecht_1:7": "41",
+    "skeptisch_Ref": "19-29",
+    "skeptisch_1:7": "15",
+    "skeptisch_1:20-1:7": "6-15"
+   }
+  },
+  {
+   "Variante": "548",
+   "Texte": "Haupt",
+   "H1": "1:1",
+   "H3": "3:1",
+   "Masse": {
+    "Delta Wörter (MFW150)": {
+     "Kandidat_s": 0.004,
+     "AUC": 0.841,
+     "Tor": true,
+     "log10LR": 0.497,
+     "Teilklassen": {
+      "H1a": "21/30",
+      "H1b": "2/2",
+      "H1c": "14/20",
+      "H3a": "12/58",
+      "H3b": "27/111"
+     },
+     "beschreibend": [
+      "H1b"
+     ]
+    },
+    "Zeichen-4-Gramme": {
+     "Kandidat_s": 0.234,
+     "AUC": 0.802,
+     "Tor": true,
+     "log10LR": 0.427,
+     "Teilklassen": {
+      "H1a": "0/30",
+      "H1b": "1/2",
+      "H1c": "0/20",
+      "H3a": "0/58",
+      "H3b": "0/111"
+     },
+     "beschreibend": [
+      "H1b"
+     ]
+    },
+    "Versmerkmale (E-7)": {
+     "Kandidat_s": 0.226,
+     "AUC": 0.671,
+     "Tor": false,
+     "log10LR": 0.215,
+     "Teilklassen": {
+      "H1a": "7/15",
+      "H1b": "1/1",
+      "H1c": "2/12",
+      "H3a": "4/21",
+      "H3b": "2/12"
+     },
+     "beschreibend": [
+      "H1b"
+     ]
+    }
+   },
+   "Wertung": 0.46,
+   "Wertung_ungekappt": 0.462,
+   "Wertung_4g_neutral": 0.25,
+   "Bilanz": {
+    "Haupt_1:5-1:3": "62-73",
+    "offen_unecht_1:7": "53",
+    "skeptisch_Ref": "28-39",
+    "skeptisch_1:7": "21",
+    "skeptisch_1:20-1:7": "9-21"
+   },
+   "Bilanz_4g_neutral": {
+    "Haupt_1:5-1:3": "51-63",
+    "offen_unecht_1:7": "43",
+    "skeptisch_Ref": "20-30",
+    "skeptisch_1:7": "15",
+    "skeptisch_1:20-1:7": "6-15"
+   }
+  },
+  {
+   "Variante": "548",
+   "Texte": "Haupt",
+   "H1": "2:1",
+   "H3": "1:1",
+   "Masse": {
+    "Delta Wörter (MFW150)": {
+     "Kandidat_s": 0.004,
+     "AUC": 0.841,
+     "Tor": true,
+     "log10LR": 0.481,
+     "Teilklassen": {
+      "H1a": "21/30",
+      "H1b": "2/2",
+      "H1c": "14/20",
+      "H3a": "12/58",
+      "H3b": "27/111"
+     },
+     "beschreibend": [
+      "H1b"
+     ]
+    },
+    "Zeichen-4-Gramme": {
+     "Kandidat_s": 0.234,
+     "AUC": 0.802,
+     "Tor": true,
+     "log10LR": 0.461,
+     "Teilklassen": {
+      "H1a": "0/30",
+      "H1b": "1/2",
+      "H1c": "0/20",
+      "H3a": "0/58",
+      "H3b": "0/111"
+     },
+     "beschreibend": [
+      "H1b"
+     ]
+    },
+    "Versmerkmale (E-7)": {
+     "Kandidat_s": 0.226,
+     "AUC": 0.671,
+     "Tor": false,
+     "log10LR": 0.278,
+     "Teilklassen": {
+      "H1a": "7/15",
+      "H1b": "1/1",
+      "H1c": "2/12",
+      "H3a": "4/21",
+      "H3b": "2/12"
+     },
+     "beschreibend": [
+      "H1b"
+     ]
+    }
+   },
+   "Wertung": 0.47,
+   "Wertung_ungekappt": 0.471,
+   "Wertung_4g_neutral": 0.24,
+   "Bilanz": {
+    "Haupt_1:5-1:3": "62-73",
+    "offen_unecht_1:7": "54",
+    "skeptisch_Ref": "28-39",
+    "skeptisch_1:7": "22",
+    "skeptisch_1:20-1:7": "9-22"
+   },
+   "Bilanz_4g_neutral": {
+    "Haupt_1:5-1:3": "50-63",
+    "offen_unecht_1:7": "42",
+    "skeptisch_Ref": "20-29",
+    "skeptisch_1:7": "15",
+    "skeptisch_1:20-1:7": "6-15"
+   }
+  },
+  {
+   "Variante": "548",
+   "Texte": "Haupt",
+   "H1": "2:1",
+   "H3": "1:3",
+   "Masse": {
+    "Delta Wörter (MFW150)": {
+     "Kandidat_s": 0.004,
+     "AUC": 0.841,
+     "Tor": true,
+     "log10LR": 0.465,
+     "Teilklassen": {
+      "H1a": "21/30",
+      "H1b": "2/2",
+      "H1c": "14/20",
+      "H3a": "12/58",
+      "H3b": "27/111"
+     },
+     "beschreibend": [
+      "H1b"
+     ]
+    },
+    "Zeichen-4-Gramme": {
+     "Kandidat_s": 0.234,
+     "AUC": 0.802,
+     "Tor": true,
+     "log10LR": 0.534,
+     "Teilklassen": {
+      "H1a": "0/30",
+      "H1b": "1/2",
+      "H1c": "0/20",
+      "H3a": "0/58",
+      "H3b": "0/111"
+     },
+     "beschreibend": [
+      "H1b"
+     ]
+    },
+    "Versmerkmale (E-7)": {
+     "Kandidat_s": 0.226,
+     "AUC": 0.671,
+     "Tor": false,
+     "log10LR": 0.285,
+     "Teilklassen": {
+      "H1a": "7/15",
+      "H1b": "1/1",
+      "H1c": "2/12",
+      "H3a": "4/21",
+      "H3b": "2/12"
+     },
+     "beschreibend": [
+      "H1b"
+     ]
+    }
+   },
+   "Wertung": 0.5,
+   "Wertung_ungekappt": 0.5,
+   "Wertung_4g_neutral": 0.23,
+   "Bilanz": {
+    "Haupt_1:5-1:3": "63-74",
+    "offen_unecht_1:7": "55",
+    "skeptisch_Ref": "29-41",
+    "skeptisch_1:7": "23",
+    "skeptisch_1:20-1:7": "9-23"
+   },
+   "Bilanz_4g_neutral": {
+    "Haupt_1:5-1:3": "50-62",
+    "offen_unecht_1:7": "41",
+    "skeptisch_Ref": "19-29",
+    "skeptisch_1:7": "15",
+    "skeptisch_1:20-1:7": "6-15"
+   }
+  },
+  {
+   "Variante": "548",
+   "Texte": "Haupt",
+   "H1": "2:1",
+   "H3": "3:1",
+   "Masse": {
+    "Delta Wörter (MFW150)": {
+     "Kandidat_s": 0.004,
+     "AUC": 0.841,
+     "Tor": true,
+     "log10LR": 0.497,
+     "Teilklassen": {
+      "H1a": "21/30",
+      "H1b": "2/2",
+      "H1c": "14/20",
+      "H3a": "12/58",
+      "H3b": "27/111"
+     },
+     "beschreibend": [
+      "H1b"
+     ]
+    },
+    "Zeichen-4-Gramme": {
+     "Kandidat_s": 0.234,
+     "AUC": 0.802,
+     "Tor": true,
+     "log10LR": 0.398,
+     "Teilklassen": {
+      "H1a": "0/30",
+      "H1b": "1/2",
+      "H1c": "0/20",
+      "H3a": "0/58",
+      "H3b": "0/111"
+     },
+     "beschreibend": [
+      "H1b"
+     ]
+    },
+    "Versmerkmale (E-7)": {
+     "Kandidat_s": 0.226,
+     "AUC": 0.671,
+     "Tor": false,
+     "log10LR": 0.272,
+     "Teilklassen": {
+      "H1a": "7/15",
+      "H1b": "1/1",
+      "H1c": "2/12",
+      "H3a": "4/21",
+      "H3b": "2/12"
+     },
+     "beschreibend": [
+      "H1b"
+     ]
+    }
+   },
+   "Wertung": 0.45,
+   "Wertung_ungekappt": 0.448,
+   "Wertung_4g_neutral": 0.25,
+   "Bilanz": {
+    "Haupt_1:5-1:3": "61-72",
+    "offen_unecht_1:7": "53",
+    "skeptisch_Ref": "27-38",
+    "skeptisch_1:7": "21",
+    "skeptisch_1:20-1:7": "9-21"
+   },
+   "Bilanz_4g_neutral": {
+    "Haupt_1:5-1:3": "51-63",
+    "offen_unecht_1:7": "43",
+    "skeptisch_Ref": "20-30",
+    "skeptisch_1:7": "15",
+    "skeptisch_1:20-1:7": "6-15"
+   }
+  },
+  {
+   "Variante": "548",
+   "Texte": "Haupt",
+   "H1": "1:2",
+   "H3": "1:1",
+   "Masse": {
+    "Delta Wörter (MFW150)": {
+     "Kandidat_s": 0.004,
+     "AUC": 0.841,
+     "Tor": true,
+     "log10LR": 0.481,
+     "Teilklassen": {
+      "H1a": "21/30",
+      "H1b": "2/2",
+      "H1c": "14/20",
+      "H3a": "12/58",
+      "H3b": "27/111"
+     },
+     "beschreibend": [
+      "H1b"
+     ]
+    },
+    "Zeichen-4-Gramme": {
+     "Kandidat_s": 0.234,
+     "AUC": 0.802,
+     "Tor": true,
+     "log10LR": 0.516,
+     "Teilklassen": {
+      "H1a": "0/30",
+      "H1b": "1/2",
+      "H1c": "0/20",
+      "H3a": "0/58",
+      "H3b": "0/111"
+     },
+     "beschreibend": [
+      "H1b"
+     ]
+    },
+    "Versmerkmale (E-7)": {
+     "Kandidat_s": 0.226,
+     "AUC": 0.671,
+     "Tor": false,
+     "log10LR": 0.156,
+     "Teilklassen": {
+      "H1a": "7/15",
+      "H1b": "1/1",
+      "H1c": "2/12",
+      "H3a": "4/21",
+      "H3b": "2/12"
+     },
+     "beschreibend": [
+      "H1b"
+     ]
+    }
+   },
+   "Wertung": 0.5,
+   "Wertung_ungekappt": 0.498,
+   "Wertung_4g_neutral": 0.24,
+   "Bilanz": {
+    "Haupt_1:5-1:3": "63-74",
+    "offen_unecht_1:7": "55",
+    "skeptisch_Ref": "29-41",
+    "skeptisch_1:7": "23",
+    "skeptisch_1:20-1:7": "9-23"
+   },
+   "Bilanz_4g_neutral": {
+    "Haupt_1:5-1:3": "50-63",
+    "offen_unecht_1:7": "42",
+    "skeptisch_Ref": "20-29",
+    "skeptisch_1:7": "15",
+    "skeptisch_1:20-1:7": "6-15"
+   }
+  },
+  {
+   "Variante": "548",
+   "Texte": "Haupt",
+   "H1": "1:2",
+   "H3": "1:3",
+   "Masse": {
+    "Delta Wörter (MFW150)": {
+     "Kandidat_s": 0.004,
+     "AUC": 0.841,
+     "Tor": true,
+     "log10LR": 0.465,
+     "Teilklassen": {
+      "H1a": "21/30",
+      "H1b": "2/2",
+      "H1c": "14/20",
+      "H3a": "12/58",
+      "H3b": "27/111"
+     },
+     "beschreibend": [
+      "H1b"
+     ]
+    },
+    "Zeichen-4-Gramme": {
+     "Kandidat_s": 0.234,
+     "AUC": 0.802,
+     "Tor": true,
+     "log10LR": 0.59,
+     "Teilklassen": {
+      "H1a": "0/30",
+      "H1b": "1/2",
+      "H1c": "0/20",
+      "H3a": "0/58",
+      "H3b": "0/111"
+     },
+     "beschreibend": [
+      "H1b"
+     ]
+    },
+    "Versmerkmale (E-7)": {
+     "Kandidat_s": 0.226,
+     "AUC": 0.671,
+     "Tor": false,
+     "log10LR": 0.163,
+     "Teilklassen": {
+      "H1a": "7/15",
+      "H1b": "1/1",
+      "H1c": "2/12",
+      "H3a": "4/21",
+      "H3b": "2/12"
+     },
+     "beschreibend": [
+      "H1b"
+     ]
+    }
+   },
+   "Wertung": 0.5,
+   "Wertung_ungekappt": 0.527,
+   "Wertung_4g_neutral": 0.23,
+   "Bilanz": {
+    "Haupt_1:5-1:3": "63-74",
+    "offen_unecht_1:7": "55",
+    "skeptisch_Ref": "29-41",
+    "skeptisch_1:7": "23",
+    "skeptisch_1:20-1:7": "9-23"
+   },
+   "Bilanz_4g_neutral": {
+    "Haupt_1:5-1:3": "50-62",
+    "offen_unecht_1:7": "41",
+    "skeptisch_Ref": "19-29",
+    "skeptisch_1:7": "15",
+    "skeptisch_1:20-1:7": "6-15"
+   }
+  },
+  {
+   "Variante": "548",
+   "Texte": "Haupt",
+   "H1": "1:2",
+   "H3": "3:1",
+   "Masse": {
+    "Delta Wörter (MFW150)": {
+     "Kandidat_s": 0.004,
+     "AUC": 0.841,
+     "Tor": true,
+     "log10LR": 0.497,
+     "Teilklassen": {
+      "H1a": "21/30",
+      "H1b": "2/2",
+      "H1c": "14/20",
+      "H3a": "12/58",
+      "H3b": "27/111"
+     },
+     "beschreibend": [
+      "H1b"
+     ]
+    },
+    "Zeichen-4-Gramme": {
+     "Kandidat_s": 0.234,
+     "AUC": 0.802,
+     "Tor": true,
+     "log10LR": 0.454,
+     "Teilklassen": {
+      "H1a": "0/30",
+      "H1b": "1/2",
+      "H1c": "0/20",
+      "H3a": "0/58",
+      "H3b": "0/111"
+     },
+     "beschreibend": [
+      "H1b"
+     ]
+    },
+    "Versmerkmale (E-7)": {
+     "Kandidat_s": 0.226,
+     "AUC": 0.671,
+     "Tor": false,
+     "log10LR": 0.15,
+     "Teilklassen": {
+      "H1a": "7/15",
+      "H1b": "1/1",
+      "H1c": "2/12",
+      "H3a": "4/21",
+      "H3b": "2/12"
+     },
+     "beschreibend": [
+      "H1b"
+     ]
+    }
+   },
+   "Wertung": 0.48,
+   "Wertung_ungekappt": 0.476,
+   "Wertung_4g_neutral": 0.25,
+   "Bilanz": {
+    "Haupt_1:5-1:3": "62-73",
+    "offen_unecht_1:7": "54",
+    "skeptisch_Ref": "28-40",
+    "skeptisch_1:7": "22",
+    "skeptisch_1:20-1:7": "9-22"
+   },
+   "Bilanz_4g_neutral": {
+    "Haupt_1:5-1:3": "51-63",
+    "offen_unecht_1:7": "43",
+    "skeptisch_Ref": "20-30",
+    "skeptisch_1:7": "15",
+    "skeptisch_1:20-1:7": "6-15"
+   }
+  },
+  {
+   "Variante": "548",
+   "Texte": "Beck_in_H3a",
+   "H1": "1:1",
+   "H3": "1:1",
+   "Masse": {
+    "Delta Wörter (MFW150)": {
+     "Kandidat_s": 0.004,
+     "AUC": 0.841,
+     "Tor": true,
+     "log10LR": 0.475,
+     "Teilklassen": {
+      "H1a": "21/30",
+      "H1b": "2/2",
+      "H1c": "14/20",
+      "H3a": "15/69",
+      "H3b": "24/100"
+     },
+     "beschreibend": [
+      "H1b"
+     ]
+    },
+    "Zeichen-4-Gramme": {
+     "Kandidat_s": 0.234,
+     "AUC": 0.802,
+     "Tor": true,
+     "log10LR": 0.519,
+     "Teilklassen": {
+      "H1a": "0/30",
+      "H1b": "1/2",
+      "H1c": "0/20",
+      "H3a": "0/69",
+      "H3b": "0/100"
+     },
+     "beschreibend": [
+      "H1b"
+     ]
+    },
+    "Versmerkmale (E-7)": {
+     "Kandidat_s": 0.226,
+     "AUC": 0.671,
+     "Tor": false,
+     "log10LR": 0.202,
+     "Teilklassen": {
+      "H1a": "7/15",
+      "H1b": "1/1",
+      "H1c": "2/12",
+      "H3a": "4/23",
+      "H3b": "2/10"
+     },
+     "beschreibend": [
+      "H1b"
+     ]
+    }
+   },
+   "Wertung": 0.5,
+   "Wertung_ungekappt": 0.497,
+   "Wertung_4g_neutral": 0.24,
+   "Bilanz": {
+    "Haupt_1:5-1:3": "63-74",
+    "offen_unecht_1:7": "55",
+    "skeptisch_Ref": "29-41",
+    "skeptisch_1:7": "23",
+    "skeptisch_1:20-1:7": "9-23"
+   },
+   "Bilanz_4g_neutral": {
+    "Haupt_1:5-1:3": "50-63",
+    "offen_unecht_1:7": "42",
+    "skeptisch_Ref": "20-29",
+    "skeptisch_1:7": "15",
+    "skeptisch_1:20-1:7": "6-15"
+   }
+  },
+  {
+   "Variante": "548",
+   "Texte": "Gaudy_nur_Lieder",
+   "H1": "1:1",
+   "H3": "1:1",
+   "Masse": {
+    "Delta Wörter (MFW150)": {
+     "Kandidat_s": 0.004,
+     "AUC": 0.834,
+     "Tor": true,
+     "log10LR": 0.464,
+     "Teilklassen": {
+      "H1a": "21/30",
+      "H1b": "2/2",
+      "H1c": "14/20",
+      "H3a": "11/49",
+      "H3b": "27/111"
+     },
+     "beschreibend": [
+      "H1b"
+     ]
+    },
+    "Zeichen-4-Gramme": {
+     "Kandidat_s": 0.234,
+     "AUC": 0.789,
+     "Tor": true,
+     "log10LR": 0.441,
+     "Teilklassen": {
+      "H1a": "0/30",
+      "H1b": "1/2",
+      "H1c": "0/20",
+      "H3a": "0/49",
+      "H3b": "0/111"
+     },
+     "beschreibend": [
+      "H1b"
+     ]
+    },
+    "Versmerkmale (E-7)": {
+     "Kandidat_s": 0.226,
+     "AUC": 0.703,
+     "Tor": false,
+     "log10LR": 0.255,
+     "Teilklassen": {
+      "H1a": "7/15",
+      "H1b": "1/1",
+      "H1c": "2/12",
+      "H3a": "3/19",
+      "H3b": "2/12"
+     },
+     "beschreibend": [
+      "H1b"
+     ]
+    }
+   },
+   "Wertung": 0.45,
+   "Wertung_ungekappt": 0.453,
+   "Wertung_4g_neutral": 0.23,
+   "Bilanz": {
+    "Haupt_1:5-1:3": "61-72",
+    "offen_unecht_1:7": "53",
+    "skeptisch_Ref": "27-38",
+    "skeptisch_1:7": "21",
+    "skeptisch_1:20-1:7": "9-21"
+   },
+   "Bilanz_4g_neutral": {
+    "Haupt_1:5-1:3": "50-62",
+    "offen_unecht_1:7": "41",
+    "skeptisch_Ref": "19-29",
+    "skeptisch_1:7": "15",
+    "skeptisch_1:20-1:7": "6-15"
+   }
+  },
+  {
+   "Variante": "548",
+   "Texte": "H1c_mit_Zeitgedichten",
+   "H1": "1:1",
+   "H3": "1:1",
+   "Masse": {
+    "Delta Wörter (MFW150)": {
+     "Kandidat_s": 0.004,
+     "AUC": 0.84,
+     "Tor": true,
+     "log10LR": 0.45,
+     "Teilklassen": {
+      "H1a": "21/30",
+      "H1b": "2/2",
+      "H1c": "12/20",
+      "H3a": "12/58",
+      "H3b": "27/111"
+     },
+     "beschreibend": [
+      "H1b"
+     ]
+    },
+    "Zeichen-4-Gramme": {
+     "Kandidat_s": 0.234,
+     "AUC": 0.778,
+     "Tor": true,
+     "log10LR": 0.489,
+     "Teilklassen": {
+      "H1a": "0/30",
+      "H1b": "1/2",
+      "H1c": "0/20",
+      "H3a": "0/58",
+      "H3b": "0/111"
+     },
+     "beschreibend": [
+      "H1b"
+     ]
+    },
+    "Versmerkmale (E-7)": {
+     "Kandidat_s": 0.226,
+     "AUC": 0.7,
+     "Tor": false,
+     "log10LR": 0.312,
+     "Teilklassen": {
+      "H1a": "7/15",
+      "H1b": "1/1",
+      "H1c": "4/12",
+      "H3a": "4/21",
+      "H3b": "2/12"
+     },
+     "beschreibend": [
+      "H1b"
+     ]
+    }
+   },
+   "Wertung": 0.47,
+   "Wertung_ungekappt": 0.47,
+   "Wertung_4g_neutral": 0.23,
+   "Bilanz": {
+    "Haupt_1:5-1:3": "62-73",
+    "offen_unecht_1:7": "54",
+    "skeptisch_Ref": "28-39",
+    "skeptisch_1:7": "22",
+    "skeptisch_1:20-1:7": "9-22"
+   },
+   "Bilanz_4g_neutral": {
+    "Haupt_1:5-1:3": "50-62",
+    "offen_unecht_1:7": "41",
+    "skeptisch_Ref": "19-29",
+    "skeptisch_1:7": "15",
+    "skeptisch_1:20-1:7": "6-15"
+   }
+  },
+  {
+   "Variante": "K (274)",
+   "Texte": "Haupt",
+   "H1": "1:1:1",
+   "H3": "1:1",
+   "Masse": {
+    "Delta Wörter (MFW150)": {
+     "Kandidat_s": -0.007,
+     "AUC": 0.811,
+     "Tor": true,
+     "log10LR": 0.449,
+     "Teilklassen": {
+      "H1a": "44/60",
+      "H1b": "4/4",
+      "H1c": "29/40",
+      "H3a": "27/117",
+      "H3b": "74/229"
+     },
+     "beschreibend": []
+    },
+    "Zeichen-4-Gramme": {
+     "Kandidat_s": 0.174,
+     "AUC": 0.766,
+     "Tor": true,
+     "log10LR": 1.315,
+     "Teilklassen": {
+      "H1a": "5/60",
+      "H1b": "2/4",
+      "H1c": "0/40",
+      "H3a": "0/117",
+      "H3b": "3/229"
+     },
+     "beschreibend": []
+    }
+   },
+   "Wertung": 0.5,
+   "Wertung_ungekappt": 0.882,
+   "Wertung_4g_neutral": 0.22,
+   "Bilanz": {
+    "Haupt_1:5-1:3": "63-74",
+    "offen_unecht_1:7": "55",
+    "skeptisch_Ref": "29-41",
+    "skeptisch_1:7": "23",
+    "skeptisch_1:20-1:7": "9-23"
+   },
+   "Bilanz_4g_neutral": {
+    "Haupt_1:5-1:3": "49-62",
+    "offen_unecht_1:7": "41",
+    "skeptisch_Ref": "19-28",
+    "skeptisch_1:7": "14",
+    "skeptisch_1:20-1:7": "6-14"
+   }
+  },
+  {
+   "Variante": "K (274)",
+   "Texte": "Haupt",
+   "H1": "1:1:1",
+   "H3": "1:3",
+   "Masse": {
+    "Delta Wörter (MFW150)": {
+     "Kandidat_s": -0.007,
+     "AUC": 0.811,
+     "Tor": true,
+     "log10LR": 0.415,
+     "Teilklassen": {
+      "H1a": "44/60",
+      "H1b": "4/4",
+      "H1c": "29/40",
+      "H3a": "27/117",
+      "H3b": "74/229"
+     },
+     "beschreibend": []
+    },
+    "Zeichen-4-Gramme": {
+     "Kandidat_s": 0.174,
+     "AUC": 0.766,
+     "Tor": true,
+     "log10LR": 1.207,
+     "Teilklassen": {
+      "H1a": "5/60",
+      "H1b": "2/4",
+      "H1c": "0/40",
+      "H3a": "0/117",
+      "H3b": "3/229"
+     },
+     "beschreibend": []
+    }
+   },
+   "Wertung": 0.5,
+   "Wertung_ungekappt": 0.811,
+   "Wertung_4g_neutral": 0.21,
+   "Bilanz": {
+    "Haupt_1:5-1:3": "63-74",
+    "offen_unecht_1:7": "55",
+    "skeptisch_Ref": "29-41",
+    "skeptisch_1:7": "23",
+    "skeptisch_1:20-1:7": "9-23"
+   },
+   "Bilanz_4g_neutral": {
+    "Haupt_1:5-1:3": "49-61",
+    "offen_unecht_1:7": "40",
+    "skeptisch_Ref": "19-28",
+    "skeptisch_1:7": "14",
+    "skeptisch_1:20-1:7": "5-14"
+   }
+  },
+  {
+   "Variante": "K (274)",
+   "Texte": "Haupt",
+   "H1": "1:1:1",
+   "H3": "3:1",
+   "Masse": {
+    "Delta Wörter (MFW150)": {
+     "Kandidat_s": -0.007,
+     "AUC": 0.811,
+     "Tor": true,
+     "log10LR": 0.486,
+     "Teilklassen": {
+      "H1a": "44/60",
+      "H1b": "4/4",
+      "H1c": "29/40",
+      "H3a": "27/117",
+      "H3b": "74/229"
+     },
+     "beschreibend": []
+    },
+    "Zeichen-4-Gramme": {
+     "Kandidat_s": 0.174,
+     "AUC": 0.766,
+     "Tor": true,
+     "log10LR": 1.459,
+     "Teilklassen": {
+      "H1a": "5/60",
+      "H1b": "2/4",
+      "H1c": "0/40",
+      "H3a": "0/117",
+      "H3b": "3/229"
+     },
+     "beschreibend": []
+    }
+   },
+   "Wertung": 0.5,
+   "Wertung_ungekappt": 0.973,
+   "Wertung_4g_neutral": 0.24,
+   "Bilanz": {
+    "Haupt_1:5-1:3": "63-74",
+    "offen_unecht_1:7": "55",
+    "skeptisch_Ref": "29-41",
+    "skeptisch_1:7": "23",
+    "skeptisch_1:20-1:7": "9-23"
+   },
+   "Bilanz_4g_neutral": {
+    "Haupt_1:5-1:3": "50-63",
+    "offen_unecht_1:7": "42",
+    "skeptisch_Ref": "20-29",
+    "skeptisch_1:7": "15",
+    "skeptisch_1:20-1:7": "6-15"
+   }
+  },
+  {
+   "Variante": "K (274)",
+   "Texte": "Haupt",
+   "H1": "2:1:1",
+   "H3": "1:1",
+   "Masse": {
+    "Delta Wörter (MFW150)": {
+     "Kandidat_s": -0.007,
+     "AUC": 0.811,
+     "Tor": true,
+     "log10LR": 0.441,
+     "Teilklassen": {
+      "H1a": "44/60",
+      "H1b": "4/4",
+      "H1c": "29/40",
+      "H3a": "27/117",
+      "H3b": "74/229"
+     },
+     "beschreibend": []
+    },
+    "Zeichen-4-Gramme": {
+     "Kandidat_s": 0.174,
+     "AUC": 0.766,
+     "Tor": true,
+     "log10LR": 1.25,
+     "Teilklassen": {
+      "H1a": "5/60",
+      "H1b": "2/4",
+      "H1c": "0/40",
+      "H3a": "0/117",
+      "H3b": "3/229"
+     },
+     "beschreibend": []
+    }
+   },
+   "Wertung": 0.5,
+   "Wertung_ungekappt": 0.846,
+   "Wertung_4g_neutral": 0.22,
+   "Bilanz": {
+    "Haupt_1:5-1:3": "63-74",
+    "offen_unecht_1:7": "55",
+    "skeptisch_Ref": "29-41",
+    "skeptisch_1:7": "23",
+    "skeptisch_1:20-1:7": "9-23"
+   },
+   "Bilanz_4g_neutral": {
+    "Haupt_1:5-1:3": "49-62",
+    "offen_unecht_1:7": "41",
+    "skeptisch_Ref": "19-28",
+    "skeptisch_1:7": "14",
+    "skeptisch_1:20-1:7": "6-14"
+   }
+  },
+  {
+   "Variante": "K (274)",
+   "Texte": "Haupt",
+   "H1": "2:1:1",
+   "H3": "1:3",
+   "Masse": {
+    "Delta Wörter (MFW150)": {
+     "Kandidat_s": -0.007,
+     "AUC": 0.811,
+     "Tor": true,
+     "log10LR": 0.407,
+     "Teilklassen": {
+      "H1a": "44/60",
+      "H1b": "4/4",
+      "H1c": "29/40",
+      "H3a": "27/117",
+      "H3b": "74/229"
+     },
+     "beschreibend": []
+    },
+    "Zeichen-4-Gramme": {
+     "Kandidat_s": 0.174,
+     "AUC": 0.766,
+     "Tor": true,
+     "log10LR": 1.142,
+     "Teilklassen": {
+      "H1a": "5/60",
+      "H1b": "2/4",
+      "H1c": "0/40",
+      "H3a": "0/117",
+      "H3b": "3/229"
+     },
+     "beschreibend": []
+    }
+   },
+   "Wertung": 0.5,
+   "Wertung_ungekappt": 0.774,
+   "Wertung_4g_neutral": 0.2,
+   "Bilanz": {
+    "Haupt_1:5-1:3": "63-74",
+    "offen_unecht_1:7": "55",
+    "skeptisch_Ref": "29-41",
+    "skeptisch_1:7": "23",
+    "skeptisch_1:20-1:7": "9-23"
+   },
+   "Bilanz_4g_neutral": {
+    "Haupt_1:5-1:3": "48-61",
+    "offen_unecht_1:7": "40",
+    "skeptisch_Ref": "18-27",
+    "skeptisch_1:7": "14",
+    "skeptisch_1:20-1:7": "5-14"
+   }
+  },
+  {
+   "Variante": "K (274)",
+   "Texte": "Haupt",
+   "H1": "2:1:1",
+   "H3": "3:1",
+   "Masse": {
+    "Delta Wörter (MFW150)": {
+     "Kandidat_s": -0.007,
+     "AUC": 0.811,
+     "Tor": true,
+     "log10LR": 0.478,
+     "Teilklassen": {
+      "H1a": "44/60",
+      "H1b": "4/4",
+      "H1c": "29/40",
+      "H3a": "27/117",
+      "H3b": "74/229"
+     },
+     "beschreibend": []
+    },
+    "Zeichen-4-Gramme": {
+     "Kandidat_s": 0.174,
+     "AUC": 0.766,
+     "Tor": true,
+     "log10LR": 1.394,
+     "Teilklassen": {
+      "H1a": "5/60",
+      "H1b": "2/4",
+      "H1c": "0/40",
+      "H3a": "0/117",
+      "H3b": "3/229"
+     },
+     "beschreibend": []
+    }
+   },
+   "Wertung": 0.5,
+   "Wertung_ungekappt": 0.936,
+   "Wertung_4g_neutral": 0.24,
+   "Bilanz": {
+    "Haupt_1:5-1:3": "63-74",
+    "offen_unecht_1:7": "55",
+    "skeptisch_Ref": "29-41",
+    "skeptisch_1:7": "23",
+    "skeptisch_1:20-1:7": "9-23"
+   },
+   "Bilanz_4g_neutral": {
+    "Haupt_1:5-1:3": "50-63",
+    "offen_unecht_1:7": "42",
+    "skeptisch_Ref": "20-29",
+    "skeptisch_1:7": "15",
+    "skeptisch_1:20-1:7": "6-15"
+   }
+  },
+  {
+   "Variante": "K (274)",
+   "Texte": "Haupt",
+   "H1": "1:2:1",
+   "H3": "1:1",
+   "Masse": {
+    "Delta Wörter (MFW150)": {
+     "Kandidat_s": -0.007,
+     "AUC": 0.811,
+     "Tor": true,
+     "log10LR": 0.465,
+     "Teilklassen": {
+      "H1a": "44/60",
+      "H1b": "4/4",
+      "H1c": "29/40",
+      "H3a": "27/117",
+      "H3b": "74/229"
+     },
+     "beschreibend": []
+    },
+    "Zeichen-4-Gramme": {
+     "Kandidat_s": 0.174,
+     "AUC": 0.766,
+     "Tor": true,
+     "log10LR": 1.452,
+     "Teilklassen": {
+      "H1a": "5/60",
+      "H1b": "2/4",
+      "H1c": "0/40",
+      "H3a": "0/117",
+      "H3b": "3/229"
+     },
+     "beschreibend": []
+    }
+   },
+   "Wertung": 0.5,
+   "Wertung_ungekappt": 0.959,
+   "Wertung_4g_neutral": 0.23,
+   "Bilanz": {
+    "Haupt_1:5-1:3": "63-74",
+    "offen_unecht_1:7": "55",
+    "skeptisch_Ref": "29-41",
+    "skeptisch_1:7": "23",
+    "skeptisch_1:20-1:7": "9-23"
+   },
+   "Bilanz_4g_neutral": {
+    "Haupt_1:5-1:3": "50-62",
+    "offen_unecht_1:7": "41",
+    "skeptisch_Ref": "19-29",
+    "skeptisch_1:7": "15",
+    "skeptisch_1:20-1:7": "6-15"
+   }
+  },
+  {
+   "Variante": "K (274)",
+   "Texte": "Haupt",
+   "H1": "1:2:1",
+   "H3": "1:3",
+   "Masse": {
+    "Delta Wörter (MFW150)": {
+     "Kandidat_s": -0.007,
+     "AUC": 0.811,
+     "Tor": true,
+     "log10LR": 0.431,
+     "Teilklassen": {
+      "H1a": "44/60",
+      "H1b": "4/4",
+      "H1c": "29/40",
+      "H3a": "27/117",
+      "H3b": "74/229"
+     },
+     "beschreibend": []
+    },
+    "Zeichen-4-Gramme": {
+     "Kandidat_s": 0.174,
+     "AUC": 0.766,
+     "Tor": true,
+     "log10LR": 1.344,
+     "Teilklassen": {
+      "H1a": "5/60",
+      "H1b": "2/4",
+      "H1c": "0/40",
+      "H3a": "0/117",
+      "H3b": "3/229"
+     },
+     "beschreibend": []
+    }
+   },
+   "Wertung": 0.5,
+   "Wertung_ungekappt": 0.888,
+   "Wertung_4g_neutral": 0.22,
+   "Bilanz": {
+    "Haupt_1:5-1:3": "63-74",
+    "offen_unecht_1:7": "55",
+    "skeptisch_Ref": "29-41",
+    "skeptisch_1:7": "23",
+    "skeptisch_1:20-1:7": "9-23"
+   },
+   "Bilanz_4g_neutral": {
+    "Haupt_1:5-1:3": "49-62",
+    "offen_unecht_1:7": "41",
+    "skeptisch_Ref": "19-28",
+    "skeptisch_1:7": "14",
+    "skeptisch_1:20-1:7": "6-14"
+   }
+  },
+  {
+   "Variante": "K (274)",
+   "Texte": "Haupt",
+   "H1": "1:2:1",
+   "H3": "3:1",
+   "Masse": {
+    "Delta Wörter (MFW150)": {
+     "Kandidat_s": -0.007,
+     "AUC": 0.811,
+     "Tor": true,
+     "log10LR": 0.502,
+     "Teilklassen": {
+      "H1a": "44/60",
+      "H1b": "4/4",
+      "H1c": "29/40",
+      "H3a": "27/117",
+      "H3b": "74/229"
+     },
+     "beschreibend": []
+    },
+    "Zeichen-4-Gramme": {
+     "Kandidat_s": 0.174,
+     "AUC": 0.766,
+     "Tor": true,
+     "log10LR": 1.596,
+     "Teilklassen": {
+      "H1a": "5/60",
+      "H1b": "2/4",
+      "H1c": "0/40",
+      "H3a": "0/117",
+      "H3b": "3/229"
+     },
+     "beschreibend": []
+    }
+   },
+   "Wertung": 0.5,
+   "Wertung_ungekappt": 1.049,
+   "Wertung_4g_neutral": 0.25,
+   "Bilanz": {
+    "Haupt_1:5-1:3": "63-74",
+    "offen_unecht_1:7": "55",
+    "skeptisch_Ref": "29-41",
+    "skeptisch_1:7": "23",
+    "skeptisch_1:20-1:7": "9-23"
+   },
+   "Bilanz_4g_neutral": {
+    "Haupt_1:5-1:3": "51-63",
+    "offen_unecht_1:7": "43",
+    "skeptisch_Ref": "20-30",
+    "skeptisch_1:7": "15",
+    "skeptisch_1:20-1:7": "6-15"
+   }
+  },
+  {
+   "Variante": "K (274)",
+   "Texte": "Haupt",
+   "H1": "1:1:2",
+   "H3": "1:1",
+   "Masse": {
+    "Delta Wörter (MFW150)": {
+     "Kandidat_s": -0.007,
+     "AUC": 0.811,
+     "Tor": true,
+     "log10LR": 0.44,
+     "Teilklassen": {
+      "H1a": "44/60",
+      "H1b": "4/4",
+      "H1c": "29/40",
+      "H3a": "27/117",
+      "H3b": "74/229"
+     },
+     "beschreibend": []
+    },
+    "Zeichen-4-Gramme": {
+     "Kandidat_s": 0.174,
+     "AUC": 0.766,
+     "Tor": true,
+     "log10LR": 1.199,
+     "Teilklassen": {
+      "H1a": "5/60",
+      "H1b": "2/4",
+      "H1c": "0/40",
+      "H3a": "0/117",
+      "H3b": "3/229"
+     },
+     "beschreibend": []
+    }
+   },
+   "Wertung": 0.5,
+   "Wertung_ungekappt": 0.82,
+   "Wertung_4g_neutral": 0.22,
+   "Bilanz": {
+    "Haupt_1:5-1:3": "63-74",
+    "offen_unecht_1:7": "55",
+    "skeptisch_Ref": "29-41",
+    "skeptisch_1:7": "23",
+    "skeptisch_1:20-1:7": "9-23"
+   },
+   "Bilanz_4g_neutral": {
+    "Haupt_1:5-1:3": "49-62",
+    "offen_unecht_1:7": "41",
+    "skeptisch_Ref": "19-28",
+    "skeptisch_1:7": "14",
+    "skeptisch_1:20-1:7": "6-14"
+   }
+  },
+  {
+   "Variante": "K (274)",
+   "Texte": "Haupt",
+   "H1": "1:1:2",
+   "H3": "1:3",
+   "Masse": {
+    "Delta Wörter (MFW150)": {
+     "Kandidat_s": -0.007,
+     "AUC": 0.811,
+     "Tor": true,
+     "log10LR": 0.406,
+     "Teilklassen": {
+      "H1a": "44/60",
+      "H1b": "4/4",
+      "H1c": "29/40",
+      "H3a": "27/117",
+      "H3b": "74/229"
+     },
+     "beschreibend": []
+    },
+    "Zeichen-4-Gramme": {
+     "Kandidat_s": 0.174,
+     "AUC": 0.766,
+     "Tor": true,
+     "log10LR": 1.091,
+     "Teilklassen": {
+      "H1a": "5/60",
+      "H1b": "2/4",
+      "H1c": "0/40",
+      "H3a": "0/117",
+      "H3b": "3/229"
+     },
+     "beschreibend": []
+    }
+   },
+   "Wertung": 0.5,
+   "Wertung_ungekappt": 0.748,
+   "Wertung_4g_neutral": 0.2,
+   "Bilanz": {
+    "Haupt_1:5-1:3": "63-74",
+    "offen_unecht_1:7": "55",
+    "skeptisch_Ref": "29-41",
+    "skeptisch_1:7": "23",
+    "skeptisch_1:20-1:7": "9-23"
+   },
+   "Bilanz_4g_neutral": {
+    "Haupt_1:5-1:3": "48-61",
+    "offen_unecht_1:7": "40",
+    "skeptisch_Ref": "18-27",
+    "skeptisch_1:7": "14",
+    "skeptisch_1:20-1:7": "5-14"
+   }
+  },
+  {
+   "Variante": "K (274)",
+   "Texte": "Haupt",
+   "H1": "1:1:2",
+   "H3": "3:1",
+   "Masse": {
+    "Delta Wörter (MFW150)": {
+     "Kandidat_s": -0.007,
+     "AUC": 0.811,
+     "Tor": true,
+     "log10LR": 0.477,
+     "Teilklassen": {
+      "H1a": "44/60",
+      "H1b": "4/4",
+      "H1c": "29/40",
+      "H3a": "27/117",
+      "H3b": "74/229"
+     },
+     "beschreibend": []
+    },
+    "Zeichen-4-Gramme": {
+     "Kandidat_s": 0.174,
+     "AUC": 0.766,
+     "Tor": true,
+     "log10LR": 1.343,
+     "Teilklassen": {
+      "H1a": "5/60",
+      "H1b": "2/4",
+      "H1c": "0/40",
+      "H3a": "0/117",
+      "H3b": "3/229"
+     },
+     "beschreibend": []
+    }
+   },
+   "Wertung": 0.5,
+   "Wertung_ungekappt": 0.91,
+   "Wertung_4g_neutral": 0.24,
+   "Bilanz": {
+    "Haupt_1:5-1:3": "63-74",
+    "offen_unecht_1:7": "55",
+    "skeptisch_Ref": "29-41",
+    "skeptisch_1:7": "23",
+    "skeptisch_1:20-1:7": "9-23"
+   },
+   "Bilanz_4g_neutral": {
+    "Haupt_1:5-1:3": "50-63",
+    "offen_unecht_1:7": "42",
+    "skeptisch_Ref": "20-29",
+    "skeptisch_1:7": "15",
+    "skeptisch_1:20-1:7": "6-15"
+   }
+  },
+  {
+   "Variante": "K (274)",
+   "Texte": "Beck_in_H3a",
+   "H1": "1:1:1",
+   "H3": "1:1",
+   "Masse": {
+    "Delta Wörter (MFW150)": {
+     "Kandidat_s": -0.007,
+     "AUC": 0.811,
+     "Tor": true,
+     "log10LR": 0.432,
+     "Teilklassen": {
+      "H1a": "44/60",
+      "H1b": "4/4",
+      "H1c": "29/40",
+      "H3a": "38/140",
+      "H3b": "63/206"
+     },
+     "beschreibend": []
+    },
+    "Zeichen-4-Gramme": {
+     "Kandidat_s": 0.174,
+     "AUC": 0.766,
+     "Tor": true,
+     "log10LR": 1.206,
+     "Teilklassen": {
+      "H1a": "5/60",
+      "H1b": "2/4",
+      "H1c": "0/40",
+      "H3a": "2/140",
+      "H3b": "1/206"
+     },
+     "beschreibend": []
+    }
+   },
+   "Wertung": 0.5,
+   "Wertung_ungekappt": 0.819,
+   "Wertung_4g_neutral": 0.22,
+   "Bilanz": {
+    "Haupt_1:5-1:3": "63-74",
+    "offen_unecht_1:7": "55",
+    "skeptisch_Ref": "29-41",
+    "skeptisch_1:7": "23",
+    "skeptisch_1:20-1:7": "9-23"
+   },
+   "Bilanz_4g_neutral": {
+    "Haupt_1:5-1:3": "49-62",
+    "offen_unecht_1:7": "41",
+    "skeptisch_Ref": "19-28",
+    "skeptisch_1:7": "14",
+    "skeptisch_1:20-1:7": "6-14"
+   }
+  },
+  {
+   "Variante": "K (274)",
+   "Texte": "Gaudy_nur_Lieder",
+   "H1": "1:1:1",
+   "H3": "1:1",
+   "Masse": {
+    "Delta Wörter (MFW150)": {
+     "Kandidat_s": -0.007,
+     "AUC": 0.804,
+     "Tor": true,
+     "log10LR": 0.425,
+     "Teilklassen": {
+      "H1a": "44/60",
+      "H1b": "4/4",
+      "H1c": "29/40",
+      "H3a": "26/99",
+      "H3b": "74/229"
+     },
+     "beschreibend": []
+    },
+    "Zeichen-4-Gramme": {
+     "Kandidat_s": 0.174,
+     "AUC": 0.754,
+     "Tor": true,
+     "log10LR": 1.298,
+     "Teilklassen": {
+      "H1a": "5/60",
+      "H1b": "2/4",
+      "H1c": "0/40",
+      "H3a": "0/99",
+      "H3b": "3/229"
+     },
+     "beschreibend": []
+    }
+   },
+   "Wertung": 0.5,
+   "Wertung_ungekappt": 0.862,
+   "Wertung_4g_neutral": 0.21,
+   "Bilanz": {
+    "Haupt_1:5-1:3": "63-74",
+    "offen_unecht_1:7": "55",
+    "skeptisch_Ref": "29-41",
+    "skeptisch_1:7": "23",
+    "skeptisch_1:20-1:7": "9-23"
+   },
+   "Bilanz_4g_neutral": {
+    "Haupt_1:5-1:3": "49-61",
+    "offen_unecht_1:7": "40",
+    "skeptisch_Ref": "19-28",
+    "skeptisch_1:7": "14",
+    "skeptisch_1:20-1:7": "5-14"
+   }
+  },
+  {
+   "Variante": "K (274)",
+   "Texte": "H1c_mit_Zeitgedichten",
+   "H1": "1:1:1",
+   "H3": "1:1",
+   "Masse": {
+    "Delta Wörter (MFW150)": {
+     "Kandidat_s": -0.007,
+     "AUC": 0.802,
+     "Tor": true,
+     "log10LR": 0.446,
+     "Teilklassen": {
+      "H1a": "44/60",
+      "H1b": "4/4",
+      "H1c": "29/41",
+      "H3a": "27/117",
+      "H3b": "74/229"
+     },
+     "beschreibend": []
+    },
+    "Zeichen-4-Gramme": {
+     "Kandidat_s": 0.174,
+     "AUC": 0.754,
+     "Tor": true,
+     "log10LR": 1.315,
+     "Teilklassen": {
+      "H1a": "5/60",
+      "H1b": "2/4",
+      "H1c": "0/41",
+      "H3a": "0/117",
+      "H3b": "3/229"
+     },
+     "beschreibend": []
+    }
+   },
+   "Wertung": 0.5,
+   "Wertung_ungekappt": 0.88,
+   "Wertung_4g_neutral": 0.22,
+   "Bilanz": {
+    "Haupt_1:5-1:3": "63-74",
+    "offen_unecht_1:7": "55",
+    "skeptisch_Ref": "29-41",
+    "skeptisch_1:7": "23",
+    "skeptisch_1:20-1:7": "9-23"
+   },
+   "Bilanz_4g_neutral": {
+    "Haupt_1:5-1:3": "49-62",
+    "offen_unecht_1:7": "41",
+    "skeptisch_Ref": "19-28",
+    "skeptisch_1:7": "14",
+    "skeptisch_1:20-1:7": "6-14"
+   }
+  },
+  {
+   "Variante": "K (274)",
+   "Texte": "H1b_plus",
+   "H1": "1:1:1",
+   "H3": "1:1",
+   "Masse": {
+    "Delta Wörter (MFW150)": {
+     "Kandidat_s": -0.007,
+     "AUC": 0.811,
+     "Tor": true,
+     "log10LR": 0.432,
+     "Teilklassen": {
+      "H1a": "44/60",
+      "H1b": "6/7",
+      "H1c": "29/40",
+      "H3a": "27/117",
+      "H3b": "74/229"
+     },
+     "beschreibend": []
+    },
+    "Zeichen-4-Gramme": {
+     "Kandidat_s": 0.174,
+     "AUC": 0.768,
+     "Tor": true,
+     "log10LR": 1.267,
+     "Teilklassen": {
+      "H1a": "5/60",
+      "H1b": "3/7",
+      "H1c": "0/40",
+      "H3a": "0/117",
+      "H3b": "3/229"
+     },
+     "beschreibend": []
+    }
+   },
+   "Wertung": 0.5,
+   "Wertung_ungekappt": 0.849,
+   "Wertung_4g_neutral": 0.22,
+   "Bilanz": {
+    "Haupt_1:5-1:3": "63-74",
+    "offen_unecht_1:7": "55",
+    "skeptisch_Ref": "29-41",
+    "skeptisch_1:7": "23",
+    "skeptisch_1:20-1:7": "9-23"
+   },
+   "Bilanz_4g_neutral": {
+    "Haupt_1:5-1:3": "49-62",
+    "offen_unecht_1:7": "41",
+    "skeptisch_Ref": "19-28",
+    "skeptisch_1:7": "14",
+    "skeptisch_1:20-1:7": "6-14"
+   }
+  }
+ ]
+}

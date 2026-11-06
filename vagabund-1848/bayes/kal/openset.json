@@ -1,0 +1,94 @@
+[
+ {
+  "schicht": "hist",
+  "mass": "Wörter 150",
+  "Müller/Wunderhorn (C3)": {
+   "auc": 0.719,
+   "treffer": "22/30",
+   "fehlalarm": "55/136",
+   "LR_nah": 1.79,
+   "LR_nah_min95": 1.14,
+   "LR_fern": 0.46
+  },
+  "Hektor (B1+B2)": {
+   "auc": 0.567,
+   "treffer": "22/30",
+   "fehlalarm": "9/15",
+   "LR_nah": 1.22,
+   "LR_nah_min95": 0.69,
+   "LR_fern": 0.67
+  },
+  "Steinmann (C1, 485 Wörter)": {
+   "s": 0.087
+  }
+ },
+ {
+  "schicht": "hist",
+  "mass": "Zeichen-4 150",
+  "Müller/Wunderhorn (C3)": {
+   "auc": 0.764,
+   "treffer": "22/30",
+   "fehlalarm": "52/136",
+   "LR_nah": 1.89,
+   "LR_nah_min95": 1.19,
+   "LR_fern": 0.44
+  },
+  "Hektor (B1+B2)": {
+   "auc": 0.538,
+   "treffer": "22/30",
+   "fehlalarm": "11/15",
+   "LR_nah": 1.01,
+   "LR_nah_min95": 0.62,
+   "LR_fern": 0.97
+  },
+  "Steinmann (C1, 485 Wörter)": {
+   "s": 0.082
+  }
+ },
+ {
+  "schicht": "ang",
+  "mass": "Wörter 150",
+  "Müller/Wunderhorn (C3)": {
+   "auc": 0.718,
+   "treffer": "21/30",
+   "fehlalarm": "53/136",
+   "LR_nah": 1.78,
+   "LR_nah_min95": 1.1,
+   "LR_fern": 0.5
+  },
+  "Hektor (B1+B2)": {
+   "auc": 0.547,
+   "treffer": "21/30",
+   "fehlalarm": "10/15",
+   "LR_nah": 1.06,
+   "LR_nah_min95": 0.61,
+   "LR_fern": 0.89
+  },
+  "Steinmann (C1, 485 Wörter)": {
+   "s": 0.092
+  }
+ },
+ {
+  "schicht": "ang",
+  "mass": "Zeichen-4 150",
+  "Müller/Wunderhorn (C3)": {
+   "auc": 0.758,
+   "treffer": "22/30",
+   "fehlalarm": "53/136",
+   "LR_nah": 1.86,
+   "LR_nah_min95": 1.17,
+   "LR_fern": 0.45
+  },
+  "Hektor (B1+B2)": {
+   "auc": 0.549,
+   "treffer": "22/30",
+   "fehlalarm": "11/15",
+   "LR_nah": 1.01,
+   "LR_nah_min95": 0.62,
+   "LR_fern": 0.97
+  },
+  "Steinmann (C1, 485 Wörter)": {
+   "s": 0.095
+  }
+ }
+]

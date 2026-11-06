@@ -1,0 +1,115 @@
+{
+ "Verse je Block": 116,
+ "Blöcke": {
+  "A1": 14,
+  "A2": 15,
+  "B2": 4,
+  "C2": 10,
+  "C3": 27
+ },
+ "H1:H3 geschlossen Geibel": {
+  "auc": 0.74,
+  "treffer": "10/15",
+  "fehlalarm": "2/10",
+  "LR_nah": 2.89,
+  "LR_nah_min95": 0.82
+ },
+ "H1:H3 offen C3": {
+  "auc": 0.674,
+  "treffer": "10/15",
+  "fehlalarm": "10/27",
+  "LR_nah": 1.75,
+  "LR_nah_min95": 0.75
+ },
+ "H1:H3 offen Hektor": {
+  "auc": 0.833,
+  "treffer": "10/15",
+  "fehlalarm": "0/4",
+  "LR_nah": 6.56,
+  "LR_nah_min95": 0.85
+ },
+ "Kandidat": {
+  "s_H3": 0.226,
+  "s_H2": 0.32
+ },
+ "Steinmann": {
+  "verse": 76,
+  "s_H3": -0.455
+ },
+ "Merkmale": {
+  "Kandidat": {
+   "weibl. Kadenz": 0.414,
+   "unreine Reime": 0.306,
+   "Silben/Vers": 6.862,
+   "Streuung": 0.776,
+   "Und": 0.086
+  },
+  "A1": {
+   "weibl. Kadenz": 0.408,
+   "unreine Reime": 0.262,
+   "Silben/Vers": 7.422,
+   "Streuung": 0.855,
+   "Und": 0.155
+  },
+  "A2": {
+   "weibl. Kadenz": 0.369,
+   "unreine Reime": 0.278,
+   "Silben/Vers": 7.488,
+   "Streuung": 0.768,
+   "Und": 0.139
+  },
+  "Hektor": {
+   "weibl. Kadenz": 0.379,
+   "unreine Reime": 0.162,
+   "Silben/Vers": 7.728,
+   "Streuung": 0.779,
+   "Und": 0.078
+  },
+  "Geibel": {
+   "weibl. Kadenz": 0.394,
+   "unreine Reime": 0.205,
+   "Silben/Vers": 7.449,
+   "Streuung": 0.902,
+   "Und": 0.123
+  },
+  "Müller/Wh": {
+   "weibl. Kadenz": 0.345,
+   "unreine Reime": 0.269,
+   "Silben/Vers": 7.143,
+   "Streuung": 0.902,
+   "Und": 0.08
+  }
+ },
+ "Streuung je Block": {
+  "A1": {
+   "n": 14,
+   "min": 0.72,
+   "median": 0.84,
+   "anteil_kleiner_gleich_Kandidat": 0.07
+  },
+  "A2": {
+   "n": 15,
+   "min": 0.45,
+   "median": 0.81,
+   "anteil_kleiner_gleich_Kandidat": 0.4
+  },
+  "Hektor": {
+   "n": 4,
+   "min": 0.67,
+   "median": 0.75,
+   "anteil_kleiner_gleich_Kandidat": 0.75
+  },
+  "Geibel": {
+   "n": 10,
+   "min": 0.6,
+   "median": 0.93,
+   "anteil_kleiner_gleich_Kandidat": 0.2
+  },
+  "Müller/Wh": {
+   "n": 27,
+   "min": 0.57,
+   "median": 0.91,
+   "anteil_kleiner_gleich_Kandidat": 0.15
+  }
+ }
+}

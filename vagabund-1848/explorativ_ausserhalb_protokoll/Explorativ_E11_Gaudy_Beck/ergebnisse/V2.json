@@ -1,0 +1,63 @@
+{
+ "Ergebnisse": [
+  {
+   "Mass": "Delta Wörter (MFW150)",
+   "Kandidat_s": 0.004,
+   "AUC_A2_gg_Nachahmer": 0.828,
+   "Tor": true,
+   "A2_mind_so_nah": "21/30",
+   "Nachahmer_mind_so_nah": "6/30",
+   "Nachahmer_95": [
+    0.1,
+    0.37
+   ],
+   "Nachahmer_heine_nah_s_gt_0": "8/30",
+   "je_Verfasser": {
+    "Gaudy_1829_1833": "3/19 (s>0: 3)",
+    "Beck_1840": "3/11 (s>0: 5)"
+   },
+   "LR": 3.31,
+   "log10LR": 0.52
+  },
+  {
+   "Mass": "Zeichen-4-Gramme",
+   "Kandidat_s": 0.234,
+   "AUC_A2_gg_Nachahmer": 0.796,
+   "Tor": true,
+   "A2_mind_so_nah": "0/30",
+   "Nachahmer_mind_so_nah": "0/30",
+   "Nachahmer_95": [
+    -0.0,
+    0.11
+   ],
+   "Nachahmer_heine_nah_s_gt_0": "11/30",
+   "je_Verfasser": {
+    "Gaudy_1829_1833": "0/19 (s>0: 5)",
+    "Beck_1840": "0/11 (s>0: 6)"
+   },
+   "LR": 1.0,
+   "log10LR": 0.0
+  },
+  {
+   "Mass": "Versmerkmale (E-7, gleiches Versmaß)",
+   "Kandidat_s": 0.226,
+   "AUC_A2_gg_Nachahmer": 0.495,
+   "Tor": false,
+   "A2_mind_so_nah": "7/15",
+   "Nachahmer_mind_so_nah": "3/7",
+   "Nachahmer_95": [
+    0.16,
+    0.75
+   ],
+   "Nachahmer_heine_nah_s_gt_0": "5/7",
+   "je_Verfasser": {
+    "Gaudy_1829_1833": "3/5 (s>0: 5)",
+    "Beck_1840": "0/2 (s>0: 0)"
+   },
+   "LR": 1.07,
+   "log10LR": 0.03
+  }
+ ],
+ "Wertung_H1_H3": 0.26,
+ "Massen_mit_Tor": 2
+}
